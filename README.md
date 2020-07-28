@@ -1,8 +1,7 @@
-![cover](https://raw.githubusercontent.com/yagi-eng/yagi-eng/master/img/cover.png)
-
 |  key  |  value  |
 | ---- | ---- |
 |  名前  |  やぎぬ  |
+|  ステータス  |  お仕事募集中  |
 |  Qiita  |  [@yagi_eng](https://qiita.com/yagi_eng) <br>最高でデイリー5位にランクイン  |
 |  Twitter  |  [@yagi_eng](https://twitter.com/yagi_eng) <br>フォロワー500人超  |
 |  Instagram  |  [@yaginu_travels_around](https://www.instagram.com/yaginu_travels_around/) <br>東南アジアバックパックの投稿など旅行の写真中心です  |
@@ -18,4 +17,4 @@
 
 会社員時代に得た幅広い経験やフリーランスとしての専門的な経験を活かし、円滑に開発を進めるためのチーム最適化など、開発だけに留まらず様々な対応が可能です。
 
-詳細な経歴はこちら。
+詳細な経歴は[こちら](https://github.com/yagi-eng/yagi-eng/blob/master/detail/README.md)。
