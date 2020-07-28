@@ -1,5 +1,3 @@
-![cover](https://raw.githubusercontent.com/yagi-eng/yagi-eng/master/img/cover.png)
-
 |  key  |  value  |
 | ---- | ---- |
 |  名前  |  やぎぬ  |
