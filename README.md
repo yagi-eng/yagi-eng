@@ -17,4 +17,4 @@
 
 会社員時代に得た幅広い経験やフリーランスとしての専門的な経験を活かし、円滑に開発を進めるためのチーム最適化など、開発だけに留まらず様々な対応が可能です。
 
-詳細な経歴は[こちら](https://github.com/yagi-eng/yagi-eng/blob/master/detail/README.md)。
+詳細な実績や経歴は[こちら](https://github.com/yagi-eng/yagi-eng/blob/master/detail/README.md)。
