@@ -33,25 +33,32 @@
 
 # ポートフォリオ・作品
 ## Resto Clip
+<img src="https://github.com/yagi-eng/yagi-eng/blob/master/img/restoclip1.jpg?raw=true" width="200px"> <img src="https://github.com/yagi-eng/yagi-eng/blob/master/img/restoclip2.jpg?raw=true" width="200px">
+
 - 概要
   - 飲食店の検索やお気に入り登録ができるLINEミニアプリ／LINE BOT
-- Repository・詳細】
+- Repository・詳細
   - https://github.com/yagi-eng/place-search
 
 ## Virtual Travel
+<img src="https://github.com/yagi-eng/yagi-eng/blob/master/img/virtualtravel.jpg?raw=true" width="200px">
+
 - 概要
   - 観光地の検索やお気に入り登録ができるLINE BOT
-- Repository・詳細】
+- Repository・詳細
   - https://github.com/yagi-eng/place-search
 
 ## ランダムにグループ分け
 ![demo.gif](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/113263/927f2061-54bd-c89d-d27c-b2b0567e5930.gif)
+
 - 概要
   - 交流会などで複数回グループ分けを行う際に、なるべく重複がないようにランダムにグループ分けするツール
-- Repository・詳細】
+- Repository・詳細
   - https://github.com/yagi-eng/group_shuffle_gui
 
 ## メモ電卓（Androidアプリ）
+<img src="https://github.com/yagi-eng/yagi-eng/blob/master/img/memo_dentaku.PNG?raw=true" width="200px">
+
 - 概要
   - 電卓の計算結果をメモと共に保存することができるアプリ
 - Repository・詳細
