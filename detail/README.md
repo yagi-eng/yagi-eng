@@ -45,6 +45,7 @@
   - https://github.com/yagi-eng/place-search
 
 ## ランダムにグループ分け
+![demo.gif](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/113263/927f2061-54bd-c89d-d27c-b2b0567e5930.gif)
 - 概要
   - 交流会などで複数回グループ分けを行う際に、なるべく重複がないようにランダムにグループ分けするツール
 - Repository・詳細】
@@ -55,6 +56,8 @@
   - 電卓の計算結果をメモと共に保存することができるアプリ
 - Repository・詳細
   - https://github.com/yagi-eng/Calculator
+ - Google Play Store
+   - https://play.google.com/store/apps/details?id=com.yagiyagi21.android.calculator&hl=ja
 
 # LT登壇履歴
 ## 2020/7/27 LINE Developer Community ミニアプリ(LIFFアプリ) LT祭り！
