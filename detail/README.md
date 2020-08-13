@@ -15,7 +15,7 @@
 |  OS  |  Linux（4年）、VMware（1年半）、OpenStack（半年）  |
 |  バージョン管理  |  git（1年半）、subversion（半年未満）  |
 |  CI/CD  |  Jenkins（1年半）、CircleCI（1年）  |
-|  テスト  |  Junit（2年）、Cypress（半年未満）  |
+|  テスト  |  Junit（2年）、PHPUnit（半年未満）、Cypress（半年未満）  |
 
 ## マネジメント
 プロジェクトマネージャー兼プロジェクトリーダーとして6名規模のマネジメント経験
@@ -119,7 +119,7 @@
 
 【環境】
 
-HTML, CSS, JavaScript, Vue.js, PHP7, Laravel6, CircleCI, AWS
+HTML, CSS, JavaScript, Vue.js, PHP7, Laravel6, PHPUnit, CircleCI, AWS
 
 【要員数】
 7名
