@@ -2,7 +2,7 @@
 | ---- | ---- |
 |  名前  |  やぎぬ  |
 |  ステータス  |  お仕事募集中  |
-|  Qiita  |  [@yagi_eng](https://qiita.com/yagi_eng)<br>最高でデイリー5位にランクイン<br>[![My Qiita posts](https://qiita-badge.apiapi.app/s/yagi_eng/posts.svg)](http://qiita.com/yagi_eng)<br>[![My Qiita contributions](https://qiita-badge.apiapi.app/s/yagi_eng/contributions.svg)]  |
+|  Qiita  |  [@yagi_eng](https://qiita.com/yagi_eng)<br>最高でデイリー5位にランクイン<br>[![My Qiita posts](https://qiita-badge.apiapi.app/s/yagi_eng/posts.svg)](http://qiita.com/yagi_eng) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/yagi_eng/contributions.svg)]  |
 |  Twitter  |  [@yagi_eng](https://twitter.com/yagi_eng) <br>フォロワー500人超  |
 |  Instagram  |  [@yaginu_travels_around](https://www.instagram.com/yaginu_travels_around/) <br>東南アジアバックパックの投稿など旅行の写真中心です  |
 |  note  |  [@yagi_eng](https://note.com/yagi_eng) |
