@@ -9,13 +9,14 @@
 ## 技術経験
 |  種別  |  詳細  |
 | ---- | ---- |
-|  言語  |  Java（2年）、PHP（2年半）、C/C++（1年）、Go（半年未満）、JavaScript（2年半）、TypeScript（半年未満）|
-|  フレームワーク  |  Spring（2年）、CakePHP（1年半）、Laravel （半年未満）、echo（半年未満）、backbone.js（1年）、Vue.js（半年）、Nuxt.js（半年未満）, React.js（半年未満）  |
-|  DB  |  MySQL（2年半）  |
-|  OS  |  Linux（4年）、VMware（1年半）、OpenStack（半年）  |
-|  バージョン管理  |  git（1年半）、subversion（半年未満）  |
-|  CI/CD  |  Jenkins（1年半）、CircleCI（1年）  |
-|  テスト  |  Junit（2年）、PHPUnit（半年未満）、Cypress（半年未満）  |
+|  言語  |  Java(2年), PHP(2年半), C/C++(1年), Go(半年未満), JavaScript(2年半), TypeScript(半年未満) |
+|  フレームワーク  |  Spring(2年), CakePHP(1年半), Laravel(半年未満), echo(半年未満), backbone.js(1年半), Vue.js(半年), Nuxt.js(半年未満), React.js(半年未満)  |
+|  DB  |  MySQL(2年半)  |
+|  OS  |  Linux(4年), VMware(1年半), OpenStack(半年)  |
+|  バージョン管理  |  git(2年), subversion(半年未満)  |
+|  CI/CD  |  Jenkins(2年), CircleCI(1年)  |
+|  クラウド |  EC2(1年半), CodeCommit(半年未満)  |
+|  テスト  |  Junit(2年), PHPUnit(半年未満), Cypress(半年未満)  |
 
 ## マネジメント
 プロジェクトマネージャー兼プロジェクトリーダーとして6名規模のマネジメント経験
