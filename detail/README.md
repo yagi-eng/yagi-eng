@@ -9,9 +9,9 @@
 ## 技術経験
 |  種別  |  詳細  |
 | ---- | ---- |
-|  言語  |  Java（2年）、PHP（2年）、C/C++（1年）、Go（半年未満）、JavaScript（2年）  |
-|  フレームワーク  |  Spring（1年半）、CakePHP（1年半）、Laravel （半年未満）、echo（半年未満）、backbone.js（1年）、Vue.js（半年）、Nuxt.js（半年未満）  |
-|  DB  |  MySQL（2年）  |
+|  言語  |  Java（2年）、PHP（2年半）、C/C++（1年）、Go（半年未満）、JavaScript（2年半）、TypeScript（半年未満）|
+|  フレームワーク  |  Spring（2年）、CakePHP（1年半）、Laravel （半年未満）、echo（半年未満）、backbone.js（1年）、Vue.js（半年）、Nuxt.js（半年未満）, React.js（半年未満）  |
+|  DB  |  MySQL（2年半）  |
 |  OS  |  Linux（4年）、VMware（1年半）、OpenStack（半年）  |
 |  バージョン管理  |  git（1年半）、subversion（半年未満）  |
 |  CI/CD  |  Jenkins（1年半）、CircleCI（1年）  |
@@ -103,10 +103,30 @@
 - SEO関連ツール制作 2件
 
 # 職務詳細
+## 某業界向けERP開発
+【期間】
+
+2020年9月〜現在
+
+【プロジェクト内容】
+
+IT化が進んでいない某業界向けのERP開発
+
+【担当】
+
+- Webアプリケーションエンジニア
+
+【環境】
+
+HTML, CSS, TypeScript, React.js, Go, echo, AWS(EC2, CodeCommit)
+
+【要員数】
+6名
+
 ## エクセルデータ管理からデータベースへの移行PJ 
 【期間】
 
-2020年7月〜現在（～2020年7月は副業として参画）
+2020年7月〜2020年8月（～2020年7月は副業として参画）
 
 【プロジェクト内容】
 
@@ -119,7 +139,7 @@
 
 【環境】
 
-HTML, CSS, JavaScript, Vue.js, PHP7, Laravel6, PHPUnit, CircleCI, AWS
+HTML, CSS, JavaScript, Vue.js, PHP7, Laravel6, PHPUnit, AWS(EC2, CodeCommit), Cypress
 
 【要員数】
 7名
@@ -141,7 +161,7 @@ HTML, CSS, JavaScript, Vue.js, PHP7, Laravel6, PHPUnit, CircleCI, AWS
 
 【環境】
 
-HTML, CSS, JavaScript, Backbone.js, Vue.js, Java8, Spring3, PHP5, CakePHP2, Jenkins, CircleCI, AWS, Cypress
+HTML, CSS, JavaScript, Backbone.js, Vue.js, Java8, Spring3, PHP5, CakePHP2, Jenkins, CircleCI, AWS(EC2)
 
 
 【要員数】
