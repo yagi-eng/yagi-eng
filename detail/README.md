@@ -15,7 +15,7 @@
 |  OS  |  Linux(4年), VMware(1年半), OpenStack(半年)  |
 |  バージョン管理  |  git(2年), subversion(半年未満)  |
 |  CI/CD  |  Jenkins(2年), CircleCI(1年)  |
-|  クラウド |  EC2(1年半), CodeCommit(半年未満)  |
+|  クラウド |  EC2(1年半), CodeCommit(半年未満) , Lambda(半年未満) |
 |  テスト  |  Junit(2年), PHPUnit(半年未満), Cypress(半年未満)  |
 
 ## マネジメント
@@ -119,7 +119,7 @@ IT化が進んでいない某業界向けのERP開発
 
 【環境】
 
-HTML, CSS, TypeScript, React.js, Go, echo, AWS(EC2, CodeCommit)
+HTML, CSS, TypeScript, React.js, Go, echo, AWS(EC2, CodeCommit, Lambda)
 
 【要員数】
 6名
