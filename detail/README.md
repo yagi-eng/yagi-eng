@@ -9,14 +9,15 @@
 ## 技術経験
 |  種別  |  詳細  |
 | ---- | ---- |
-|  言語  |  Java(2年), PHP(2年半), C/C++(1年), Go(半年未満), JavaScript(2年半), TypeScript(半年未満) |
-|  フレームワーク  |  Spring(2年), CakePHP(1年半), Laravel(半年未満), echo(半年未満), backbone.js(1年半), Vue.js(半年), Nuxt.js(半年未満), React.js(半年未満)  |
-|  DB  |  MySQL(2年半)  |
-|  OS  |  Linux(4年), VMware(1年半), OpenStack(半年)  |
-|  バージョン管理  |  git(2年), subversion(半年未満)  |
-|  CI/CD  |  Jenkins(2年), CircleCI(1年)  |
-|  クラウド |  EC2(1年半), CodeCommit(半年未満) , Lambda(半年未満) |
-|  テスト  |  Junit(2年), PHPUnit(半年未満), Cypress(半年未満)  |
+|  言語  |  Java(2年), PHP(2年半), C/C++(1年), Go(半年), JavaScript(2年半), TypeScript(半年未満) |
+|  フレームワーク  |  Spring(2年), CakePHP(1年半), Laravel(半年未満), echo(半年), backbone.js(1年半), Vue.js(半年), Nuxt.js(半年未満), React.js(半年未満)  |
+|  DB  |  MySQL  |
+|  OS  |  Linux, VMware, OpenStack  |
+|  バージョン管理  |  git, subversion  |
+|  CI/CD  |  Jenkins, CircleCI  |
+|  クラウド |  EC2, CodeCommit , Lambda |
+|  テスト  |  Junit, PHPUnit, Cypress  |
+|  その他  |  Swagger  |
 
 ## マネジメント
 プロジェクトマネージャー兼プロジェクトリーダーとして6名規模のマネジメント経験
@@ -119,7 +120,7 @@ IT化が進んでいない某業界向けのERP開発
 
 【環境】
 
-HTML, CSS, TypeScript, React.js, Go, echo, AWS(EC2, CodeCommit, Lambda)
+HTML, CSS, TypeScript, React.js, Go, echo, AWS(EC2, CodeCommit, Lambda), Swagger  
 
 【要員数】
 6名
