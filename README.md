@@ -20,7 +20,7 @@
 また、以下のように業務以外のことにも取り組んでいます。
 
 - LT登壇
-- 飲食店検索LINEBOTを開発し、友だち登録数70人超えの
-- 定期的にQiitaに投稿し、最高でデイリートレンド3位
+- 飲食店検索LINEBOTを開発（友だち登録数70人超え）
+- 定期的にQiitaへ投稿（最高でデイリートレンド3位）
 
 詳細な実績や経歴は[こちら](https://github.com/yagi-eng/yagi-eng/blob/master/detail/README.md)。
