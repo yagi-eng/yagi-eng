@@ -20,7 +20,7 @@
 |  OS  |  Linux, VMware, OpenStack  |
 |  バージョン管理  |  git, subversion  |
 |  CI/CD  |  Jenkins, CircleCI  |
-|  クラウド |  EC2, CodeCommit , Lambda |
+|  クラウド |  EC2, CodeCommit, Lambda, RDS, ECS, ECR, Beanstalk |
 |  テスト  |  Junit, PHPUnit, Cypress  |
 |  その他  |  Swagger  |
 
@@ -125,7 +125,7 @@ IT化が進んでいない某業界向けのERP開発
 
 【環境】
 
-HTML, CSS, TypeScript, React.js, Go, echo, AWS(EC2, CodeCommit, Lambda), Swagger  
+HTML, CSS, TypeScript, React.js, Go, echo, Python, AWS(EC2, CodeCommit, Lambda, RDS, ECS, ECR, Beanstalk), Swagger  
 
 【要員数】
 6名
