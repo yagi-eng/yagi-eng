@@ -14,8 +14,8 @@
 ## 技術経験
 |  種別  |  詳細  |
 | ---- | ---- |
-|  言語  |  Java(2年), PHP(2年半), C/C++(1年), Go(半年), JavaScript(2年半), TypeScript(半年未満) |
-|  フレームワーク  |  Spring(2年), CakePHP(1年半), Laravel(半年未満), echo(半年), backbone.js(1年半), Vue.js(半年), Nuxt.js(半年未満), React.js(半年未満)  |
+|  言語  |  Go(半年), Python(半年未満), Java(2年), PHP(2年半), C/C++(1年), JavaScript(2年半), TypeScript(半年未満) |
+|  フレームワーク  |  echo(半年), Spring(2年), CakePHP(1年半), Laravel(半年), backbone.js(1年半), Vue.js(半年), React.js(半年未満), Nuxt.js(半年未満)  |
 |  DB  |  MySQL  |
 |  OS  |  Linux, VMware, OpenStack  |
 |  バージョン管理  |  git, subversion  |
