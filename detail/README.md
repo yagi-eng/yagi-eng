@@ -10,6 +10,7 @@
 - LT登壇
 - 飲食店検索LINEBOTを開発（友だち登録数70人超え）
 - 定期的にQiitaへ投稿（最高でデイリートレンド3位）
+
 # 経験・知識
 ## 技術経験
 |  種別  |  詳細  |
@@ -38,6 +39,27 @@
 ## 現在（フリーランス）
 チームとして機能できていなかったエンジニアチームにジョインして、チームとして機能できる状態を作り、生産性を向上させました。具体的には、チーム運営のルール化やバックログの整理、ステークホルダーとの関わり方を明確にするなどを行いました。
 このような業績から、単価を上げて頂くことができました。
+
+# イベント登壇履歴
+## 【予定】2020/11/4 Go と LINE BOT 最初の一歩 勉強会 \[ミニアプリNight\]
+- イベントURL
+  - https://linedevelopercommunity.connpass.com/event/192599/
+
+## 2020/7/27 LINE Developer Community ミニアプリ(LIFFアプリ) LT祭り！
+- イベントURL
+  - https://linedevelopercommunity.connpass.com/event/180970/
+- 登壇資料
+  - https://www.slideshare.net/ssuser11af3b1/lifflinebot
+- 登壇模様（6:14あたりから、編集によって変更の可能性あり）
+  - https://youtu.be/Zovkb7-SEJo?t=375
+
+## 2020/5/25 LINE Developer Community 初登壇者祭り
+- イベントURL
+  - https://linedevelopercommunity.connpass.com/event/175751/
+- 登壇資料
+  - https://www.slideshare.net/ssuser11af3b1/liffline
+- 登壇模様（25:04あたりから、編集によって変更の可能性あり）
+  - https://youtu.be/kczaohan7H4?t=1504
 
 # ポートフォリオ・作品
 ## Resto Clip
@@ -73,27 +95,6 @@
   - https://github.com/yagi-eng/Calculator
  - Google Play Store
    - https://play.google.com/store/apps/details?id=com.yagiyagi21.android.calculator&hl=ja
-
-# イベント登壇履歴
-## 【予定】2020/11/4 Go と LINE BOT 最初の一歩 勉強会 \[ミニアプリNight\]
-- イベントURL
-  - https://linedevelopercommunity.connpass.com/event/192599/
-
-## 2020/7/27 LINE Developer Community ミニアプリ(LIFFアプリ) LT祭り！
-- イベントURL
-  - https://linedevelopercommunity.connpass.com/event/180970/
-- 登壇資料
-  - https://www.slideshare.net/ssuser11af3b1/lifflinebot
-- 登壇模様（6:14あたりから、編集によって変更の可能性あり）
-  - https://youtu.be/Zovkb7-SEJo?t=375
-
-## 2020/5/25 LINE Developer Community 初登壇者祭り
-- イベントURL
-  - https://linedevelopercommunity.connpass.com/event/175751/
-- 登壇資料
-  - https://www.slideshare.net/ssuser11af3b1/liffline
-- 登壇模様（25:04あたりから、編集によって変更の可能性あり）
-  - https://youtu.be/kczaohan7H4?t=1504
 
 # 保有資格
 - 応用情報技術者試験
