@@ -74,7 +74,11 @@
  - Google Play Store
    - https://play.google.com/store/apps/details?id=com.yagiyagi21.android.calculator&hl=ja
 
-# LT登壇履歴
+# イベント登壇履歴
+## 【予定】2020/11/4 Go と LINE BOT 最初の一歩 勉強会 \[ミニアプリNight\]
+- イベントURL
+  - https://linedevelopercommunity.connpass.com/event/192599/
+
 ## 2020/7/27 LINE Developer Community ミニアプリ(LIFFアプリ) LT祭り！
 - イベントURL
   - https://linedevelopercommunity.connpass.com/event/180970/
