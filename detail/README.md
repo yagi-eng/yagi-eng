@@ -42,24 +42,17 @@
 
 # イベント登壇履歴
 ## 【予定】2020/11/4 Go と LINE BOT 最初の一歩 勉強会 \[ミニアプリNight\]
-- イベントURL
-  - https://linedevelopercommunity.connpass.com/event/192599/
+- [イベントページ](https://linedevelopercommunity.connpass.com/event/192599/)
 
 ## 2020/7/27 LINE Developer Community ミニアプリ(LIFFアプリ) LT祭り！
-- イベントURL
-  - https://linedevelopercommunity.connpass.com/event/180970/
-- 登壇資料
-  - https://www.slideshare.net/ssuser11af3b1/lifflinebot
-- 登壇模様（6:14あたりから、編集によって変更の可能性あり）
-  - https://youtu.be/Zovkb7-SEJo?t=375
+- [イベントページ](https://linedevelopercommunity.connpass.com/event/180970/)
+- [登壇資料](https://speakerdeck.com/yagieng/lifftolinebotwolian-xi-sasetetukuruyin-shi-dian-jian-suo-apuri)
+- [登壇模様](https://youtu.be/Zovkb7-SEJo?t=375)（6:14あたりから、編集によって変更の可能性あり）
 
 ## 2020/5/25 LINE Developer Community 初登壇者祭り
-- イベントURL
-  - https://linedevelopercommunity.connpass.com/event/175751/
-- 登壇資料
-  - https://www.slideshare.net/ssuser11af3b1/liffline
-- 登壇模様（25:04あたりから、編集によって変更の可能性あり）
-  - https://youtu.be/kczaohan7H4?t=1504
+- [イベントページ](https://linedevelopercommunity.connpass.com/event/175751/)
+- [登壇資料](https://speakerdeck.com/yagieng/liffdelinegong-shi-akauntoshang-niyu-yue-huomuwozuo-cheng-suru)
+- [登壇模様](https://youtu.be/kczaohan7H4?t=1504)（25:04あたりから、編集によって変更の可能性あり）
 
 # ポートフォリオ・作品
 ## Resto Clip
