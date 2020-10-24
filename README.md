@@ -6,6 +6,7 @@
 |  Twitter  |  [@yagi_eng](https://twitter.com/yagi_eng) <br>フォロワー500人超  |
 |  Instagram  |  [@yaginu_travels_around](https://www.instagram.com/yaginu_travels_around/) <br>東南アジアバックパックの投稿など旅行の写真中心 <br>[@yaginu_nakame_lunch](https://www.instagram.com/yaginu_nakame_lunch/) <br>中目黒周辺のグルメ情報を発信  |
 |  note  |  [@yagi_eng](https://note.com/yagi_eng) |
+|  Speaker Deck  |  [@yagieng](https://speakerdeck.com/yagieng) |
 |  Wantedly  |  [こちら](https://www.wantedly.com/users/135658076)  |
 |  性格診断結果  |  [クマ型](https://16test.uranaino.net/udata/cINlVQHf3OkU6jlTtw7j ) <br>マネージャー職が適職だそうです  |
 |  好きな言語  |  Go  |
