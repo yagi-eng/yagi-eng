@@ -2,7 +2,7 @@
 | ---- | ---- |
 |  名前  |  やぎぬ  |
 |  ステータス  |  お仕事募集中  |
-|  Qiita  |  [@yagi_eng](https://qiita.com/yagi_eng)<br>最高でデイリー3位にランクイン<br>[![My Qiita posts](https://qiita-badge.apiapi.app/s/yagi_eng/posts.svg)](http://qiita.com/yagi_eng) ![My Qiita contributions](https://qiita-badge.apiapi.app/s/yagi_eng/contributions.svg)  |
+|  Qiita  |  [@yagi_eng](https://qiita.com/yagi_eng)<br>最高でデイリー1位にランクイン<br>[![My Qiita posts](https://qiita-badge.apiapi.app/s/yagi_eng/posts.svg)](http://qiita.com/yagi_eng) ![My Qiita contributions](https://qiita-badge.apiapi.app/s/yagi_eng/contributions.svg)  |
 |  Twitter  |  [@yagi_eng](https://twitter.com/yagi_eng) <br>フォロワー500人超  |
 |  Instagram  |  [@yaginu_travels_around](https://www.instagram.com/yaginu_travels_around/) <br>東南アジアバックパックの投稿など旅行の写真中心 <br>[@yaginu_nakame_lunch](https://www.instagram.com/yaginu_nakame_lunch/) <br>中目黒周辺のグルメ情報を発信  |
 |  note  |  [@yagi_eng](https://note.com/yagi_eng) |
@@ -21,6 +21,6 @@
 
 - イベント登壇
 - 飲食店検索LINEBOTを開発（友だち登録数80人超え）
-- 定期的にQiitaへ投稿（最高でデイリートレンド3位）
+- 定期的にQiitaへ投稿（最高でデイリートレンド1位）
 
 [詳細な実績や経歴はこちら](https://github.com/yagi-eng/yagi-eng/blob/master/detail/README.md)。
