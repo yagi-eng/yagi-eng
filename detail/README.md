@@ -47,12 +47,14 @@
 ## 2020/7/27 LINE Developer Community ミニアプリ(LIFFアプリ) LT祭り！
 - [イベントページ](https://linedevelopercommunity.connpass.com/event/180970/)
 - [登壇資料](https://speakerdeck.com/yagieng/lifftolinebotwolian-xi-sasetetukuruyin-shi-dian-jian-suo-apuri)
-- [登壇模様](https://youtu.be/Zovkb7-SEJo?t=375)（6:14あたりから、編集によって変更の可能性あり）
+- [登壇模様](https://youtu.be/Zovkb7-SEJo?t=375)
+    - 6:14あたりから、編集によって変更の可能性あり
 
 ## 2020/5/25 LINE Developer Community 初登壇者祭り
 - [イベントページ](https://linedevelopercommunity.connpass.com/event/175751/)
 - [登壇資料](https://speakerdeck.com/yagieng/liffdelinegong-shi-akauntoshang-niyu-yue-huomuwozuo-cheng-suru)
-- [登壇模様](https://youtu.be/kczaohan7H4?t=1504)（25:04あたりから、編集によって変更の可能性あり）
+- [登壇模様](https://youtu.be/kczaohan7H4?t=1504)
+    - 25:04あたりから、編集によって変更の可能性あり
 
 # ポートフォリオ・作品
 ## Resto Clip
@@ -60,34 +62,29 @@
 
 - 概要
   - 飲食店の検索やお気に入り登録ができるLINEミニアプリ／LINE BOT
-- Repository・詳細
-  - https://github.com/yagi-eng/place-search
+- [Repository・詳細](https://github.com/yagi-eng/place-search)
 
 ## Virtual Travel
 <img src="https://github.com/yagi-eng/yagi-eng/blob/master/img/virtualtravel.jpg?raw=true" width="200px">
 
 - 概要
   - 観光地の検索やお気に入り登録ができるLINE BOT
-- Repository・詳細
-  - https://github.com/yagi-eng/place-search
+- [Repository・詳細](https://github.com/yagi-eng/place-search)
 
 ## ランダムにグループ分け
 ![demo.gif](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/113263/927f2061-54bd-c89d-d27c-b2b0567e5930.gif)
 
 - 概要
   - 交流会などで複数回グループ分けを行う際に、なるべく重複がないようにランダムにグループ分けするツール
-- Repository・詳細
-  - https://github.com/yagi-eng/group_shuffle_gui
+- [Repository・詳細](https://github.com/yagi-eng/group_shuffle_gui)
 
 ## メモ電卓（Androidアプリ）
 <img src="https://github.com/yagi-eng/yagi-eng/blob/master/img/memo_dentaku.PNG?raw=true" width="200px">
 
 - 概要
   - 電卓の計算結果をメモと共に保存することができるアプリ
-- Repository・詳細
-  - https://github.com/yagi-eng/Calculator
- - Google Play Store
-   - https://play.google.com/store/apps/details?id=com.yagiyagi21.android.calculator&hl=ja
+- [Repository・詳細](https://github.com/yagi-eng/Calculator)
+ - [Google Play Store](https://play.google.com/store/apps/details?id=com.yagiyagi21.android.calculator&hl=ja)
 
 # 保有資格
 - 応用情報技術者試験
