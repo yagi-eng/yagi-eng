@@ -41,7 +41,7 @@
 このような業績から、単価を上げて頂くことができました。
 
 # イベント登壇履歴
-## 020/11/4 Go と LINE BOT 最初の一歩 勉強会 \[ミニアプリNight\]
+## 2020/11/4 Go と LINE BOT 最初の一歩 勉強会 \[ミニアプリNight\]
 - 単独登壇
 - [イベントページ](https://linedevelopercommunity.connpass.com/event/192599/)
     - 参加者数： 202人
