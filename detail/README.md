@@ -15,14 +15,14 @@
 ## 技術経験
 |  種別  |  詳細  |
 | ---- | ---- |
-|  言語  |  Go(半年), Python(半年未満), Java(2年), PHP(2年半), C/C++(1年), JavaScript(2年半), TypeScript(半年未満) |
-|  フレームワーク  |  echo(半年), Spring(2年), CakePHP(1年半), Laravel(半年), backbone.js(1年半), Vue.js(半年), React.js(半年未満), Nuxt.js(半年未満)  |
+|  言語  |  Go(半年以上), Python(半年未満), Java(2年半以上), PHP(2年半以上), C/C++(1年以上), <br>JavaScript(2年半以上), TypeScript(半年未満) |
+|  フレームワーク  |  echo(半年以上), Spring(2年半以上), CakePHP(1年半以上), Laravel(半年以上), <br>backbone.js(1年半以上), Vue.js(半年以上), React.js(半年未満), Nuxt.js(半年未満)  |
 |  DB  |  MySQL  |
 |  OS  |  Linux, VMware, OpenStack  |
 |  バージョン管理  |  git, subversion  |
 |  CI/CD  |  Jenkins, CircleCI  |
 |  クラウド |  EC2, CodeCommit, Lambda, RDS, ECS, ECR, Beanstalk |
-|  テスト  |  Junit, PHPUnit, Cypress  |
+|  テスト  |  go test, Junit, PHPUnit, Cypress  |
 |  その他  |  Swagger  |
 
 ## マネジメント
@@ -46,18 +46,24 @@
 - [登壇資料](https://speakerdeck.com/yagieng/go-to-line-bot-ni-matometeru-men-suru)
 - [登壇模様](https://youtu.be/zF5n0CMS-L4?t=173)
     - 2:53あたりから、編集によって変更の可能性あり
+- 登壇内容
+    - GoでのLINE BOT開発を通じて、Goの基本事項や特徴、LINE BOT(Messaging API)の概要を講義形式で学ぶ
 
 ## 2020/7/27 LINE Developer Community ミニアプリ(LIFFアプリ) LT祭り！
 - [イベントページ](https://linedevelopercommunity.connpass.com/event/180970/)
 - [登壇資料](https://speakerdeck.com/yagieng/lifftolinebotwolian-xi-sasetetukuruyin-shi-dian-jian-suo-apuri)
 - [登壇模様](https://youtu.be/Zovkb7-SEJo?t=375)
     - 6:14あたりから、編集によって変更の可能性あり
+- 登壇内容
+    - LINEBOTとLIFFを連携させてつくる飲食店検索アプリ
 
 ## 2020/5/25 LINE Developer Community 初登壇者祭り
 - [イベントページ](https://linedevelopercommunity.connpass.com/event/175751/)
 - [登壇資料](https://speakerdeck.com/yagieng/liffdelinegong-shi-akauntoshang-niyu-yue-huomuwozuo-cheng-suru)
 - [登壇模様](https://youtu.be/kczaohan7H4?t=1504)
     - 25:04あたりから、編集によって変更の可能性あり
+- 登壇内容
+    - LIFFでLINE公式アカウント（旧LINE＠）上に予約フォームを作成する
 
 # ポートフォリオ・作品
 ## Resto Clip
