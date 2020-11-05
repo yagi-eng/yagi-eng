@@ -42,7 +42,9 @@
 
 # イベント登壇履歴
 ## 020/11/4 Go と LINE BOT 最初の一歩 勉強会 \[ミニアプリNight\]
+- 単独登壇
 - [イベントページ](https://linedevelopercommunity.connpass.com/event/192599/)
+    - 参加者数： 202人
 - [登壇資料](https://speakerdeck.com/yagieng/go-to-line-bot-ni-matometeru-men-suru)
 - [登壇模様](https://youtu.be/zF5n0CMS-L4?t=173)
     - 2:53あたりから、編集によって変更の可能性あり
@@ -50,7 +52,9 @@
     - GoでのLINE BOT開発を通じて、Goの基本事項や特徴、LINE BOT(Messaging API)の概要を講義形式で学ぶ
 
 ## 2020/7/27 LINE Developer Community ミニアプリ(LIFFアプリ) LT祭り！
+- LT登壇
 - [イベントページ](https://linedevelopercommunity.connpass.com/event/180970/)
+    - 参加者数： 208人
 - [登壇資料](https://speakerdeck.com/yagieng/lifftolinebotwolian-xi-sasetetukuruyin-shi-dian-jian-suo-apuri)
 - [登壇模様](https://youtu.be/Zovkb7-SEJo?t=375)
     - 6:14あたりから、編集によって変更の可能性あり
@@ -58,7 +62,9 @@
     - LINEBOTとLIFFを連携させてつくる飲食店検索アプリ
 
 ## 2020/5/25 LINE Developer Community 初登壇者祭り
+- LT登壇
 - [イベントページ](https://linedevelopercommunity.connpass.com/event/175751/)
+    - 参加者数： 152人
 - [登壇資料](https://speakerdeck.com/yagieng/liffdelinegong-shi-akauntoshang-niyu-yue-huomuwozuo-cheng-suru)
 - [登壇模様](https://youtu.be/kczaohan7H4?t=1504)
     - 25:04あたりから、編集によって変更の可能性あり
