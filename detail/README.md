@@ -7,8 +7,8 @@
 
 また、以下のように業務以外のことにも取り組んでいます。
 
-- LT登壇
-- 飲食店検索LINEBOTを開発（友だち登録数180人超え）
+- イベント登壇
+- 飲食店検索LINEBOTを開発（友だち登録数210人超え）
 - 定期的にQiitaへ投稿（最高でデイリートレンド1位）
 
 # 経験・知識
@@ -41,8 +41,11 @@
 このような業績から、単価を上げて頂くことができました。
 
 # イベント登壇履歴
-## 【予定】2020/11/4 Go と LINE BOT 最初の一歩 勉強会 \[ミニアプリNight\]
+## 020/11/4 Go と LINE BOT 最初の一歩 勉強会 \[ミニアプリNight\]
 - [イベントページ](https://linedevelopercommunity.connpass.com/event/192599/)
+- [登壇資料](https://speakerdeck.com/yagieng/go-to-line-bot-ni-matometeru-men-suru)
+- [登壇模様](https://youtu.be/zF5n0CMS-L4?t=173)
+    - 2:53あたりから、編集によって変更の可能性あり
 
 ## 2020/7/27 LINE Developer Community ミニアプリ(LIFFアプリ) LT祭り！
 - [イベントページ](https://linedevelopercommunity.connpass.com/event/180970/)
