@@ -21,7 +21,7 @@
 また、以下のように業務以外のことにも取り組んでいます。
 
 - イベント登壇
-- 飲食店検索LINEBOTを開発（友だち登録数180人超え）
+- 飲食店検索LINEBOTを開発（友だち登録数210人超え）
 - 定期的にQiitaへ投稿（最高でデイリートレンド1位）
 
 [詳細な実績や経歴はこちら](https://github.com/yagi-eng/yagi-eng/blob/master/detail/README.md)。
