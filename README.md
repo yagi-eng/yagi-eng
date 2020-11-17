@@ -1,7 +1,7 @@
 |  key  |  value  |
 | ---- | ---- |
 |  名前  |  やぎぬ  |
-|  Qiita  |  [@yagi_eng](https://qiita.com/yagi_eng)<br>最高でデイリー1位にランクイン<br>[![My Qiita posts](https://qiita-badge.apiapi.app/s/yagi_eng/posts.svg)](http://qiita.com/yagi_eng) ![My Qiita contributions](https://qiita-badge.apiapi.app/s/yagi_eng/contributions.svg)  |
+|  Qiita  |  [@yagi_eng](https://qiita.com/yagi_eng)<br>複数回トレンド入り、最高でデイリー1位<br>[![My Qiita posts](https://qiita-badge.apiapi.app/s/yagi_eng/posts.svg)](http://qiita.com/yagi_eng) ![My Qiita contributions](https://qiita-badge.apiapi.app/s/yagi_eng/contributions.svg)  |
 |  Twitter  |  [@yagi_eng](https://twitter.com/yagi_eng) <br>フォロワー500人超<br>お仕事依頼はTwitterにDM頂けると幸いです  |
 |  Instagram  |  [@yaginu_travels_around](https://www.instagram.com/yaginu_travels_around/) <br>東南アジアバックパックの投稿など旅行の写真中心 <br>[@yaginu_nakame_lunch](https://www.instagram.com/yaginu_nakame_lunch/) <br>中目黒周辺のグルメ情報を発信  |
 |  note  |  [@yagi_eng](https://note.com/yagi_eng) |
