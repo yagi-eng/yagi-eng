@@ -15,13 +15,13 @@
 ## 技術経験
 |  種別  |  詳細  |
 | ---- | ---- |
-|  言語  |  Go(半年以上), Python(半年未満), Java(2年半以上), PHP(2年半以上), C/C++(1年以上), <br>JavaScript(2年半以上), TypeScript(半年未満) |
-|  フレームワーク  |  echo(半年以上), Spring(2年半以上), CakePHP(1年半以上), Laravel(半年以上), <br>backbone.js(1年半以上), Vue.js(半年以上), React.js(半年未満), Nuxt.js(半年未満)  |
+|  言語  |  Go(1年以上), Python(半年以上), Java(2年半以上), PHP(2年半以上), C/C++(1年以上), <br>JavaScript(3年以上), TypeScript(半年以上) |
+|  フレームワーク  |  echo(1年以上), Spring(2年半以上), CakePHP(1年半以上), Laravel(半年以上), <br>backbone.js(1年半以上), Vue.js(半年以上), React.js(半年以上), Redux(半年以上), Nuxt.js(半年未満)  |
 |  DB  |  MySQL  |
 |  OS  |  Linux, VMware, OpenStack  |
 |  バージョン管理  |  git, subversion  |
-|  CI/CD  |  Jenkins, CircleCI  |
-|  クラウド |  EC2, CodeCommit, Lambda, RDS, ECS, ECR, Beanstalk |
+|  CI/CD  |  Jenkins, CircleCI, CodeBuild  |
+|  クラウド |  EC2, CodeCommit, Lambda, RDS, ECS, ECR, Beanstalk, Step Functions, CDK, Cloud Formation |
 |  テスト  |  go test, Junit, PHPUnit, Cypress  |
 |  その他  |  Swagger  |
 
@@ -135,10 +135,10 @@ IT化が進んでいない某業界向けのERP開発
 
 【環境】
 
-HTML, CSS, TypeScript, React.js, Go, echo, Python, AWS(EC2, CodeCommit, Lambda, RDS, ECS, ECR, Beanstalk), Swagger  
+HTML, CSS, TypeScript, React.js, Go, echo, Python, AWS(EC2, CodeCommit, Lambda, RDS, ECS, ECR, Beanstalk, Step Functions, CDK, Cloud Formation), Swagger  
 
 【要員数】
-6名
+8名
 
 ## エクセルデータ管理からデータベースへの移行PJ 
 【期間】
