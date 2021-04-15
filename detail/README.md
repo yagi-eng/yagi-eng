@@ -1,20 +1,29 @@
 # プロフィール
-大学3,4年生の時にベンチャー企業のインターンシップで社内ツールの開発を経験。その後は大手SIer企業に入社し、Webアプリケーションの開発やプライベートクラウドの企画・構築に従事してきました。入社して1年半経たない頃には約1億円規模のPJのリーダーに抜擢され、様々な部署との調整や課題対応を行い、PJを計画通りに進めてきました。
+大学3,4年生の時にベンチャー企業のインターンシップで社内ツールの開発を経験。その後は大手SIer企業に入社し、Webアプリケーションの開発やプライベートクラウドの企画・構築に従事してきました。入社して1年半経たない頃には約1億円規模のPJのリーダーに抜擢され、様々な部署との調整や課題対応を行うことで、PJを計画通りに完遂しました。
 
-現在はWebエンジニアとしてフリーで活動をしており、フロントエンド・バックエンド両方の開発や他部署との調整業務を行っています。
+現在はWebエンジニアとしてフリーで活動をしており、フロントエンド・バックエンド両方の開発を行っています。新規開発案件にジョインして、言語やアーキテクチャなどの技術選定や、PJ運営方針の検討に携わることもあります。また、他部署との調整業務などを一任頂くこともあります。
 
-会社員時代に得た幅広い経験やフリーランスとしての専門的な経験を活かし、円滑に開発を進めるためのチーム最適化など、開発だけに留まらず様々な対応が可能です。
+会社員時代に得た幅広い経験やフリーランスとしての専門的な経験を活かし、円滑に開発を進めるためにチームを最適化するなど、開発だけに留まらず様々な対応が可能です。
+
+また、以下のように業務以外のことにも取り組んでいます。
+
+- イベント登壇（ほぼ単独で約120人の前で登壇）
+- 飲食店検索LINEBOTを開発（友だち登録数250人超え）
+- 定期的にQiitaへ投稿（複数回トレンド入り、最高でデイリー1位）
 
 # 経験・知識
 ## 技術経験
 |  種別  |  詳細  |
 | ---- | ---- |
-|  言語  |  Java（2年）、PHP（2年）、C/C++（1年）、Go（半年未満）、JavaScript（2年）  |
-|  フレームワーク  |  Spring（1年半）、CakePHP（1年半）、Laravel （半年未満）、echo（半年未満）、backbone.js（1年）、Vue.js（半年）、Nuxt.js（半年未満）  |
-|  DB  |  MySQL（2年）  |
-|  OS  |  Linux（4年）、VMware（1年半）、OpenStack（半年）  |
-|  バージョン管理  |  git（1年半）、subversion（半年未満）  |
-|  CI/CD  |  Jenkins（1年半）、CircleCI（1年）  |
+|  言語  |  Go(1年以上), Python(半年以上), Java(2年半以上), PHP(2年半以上), C/C++(1年以上), <br>JavaScript(3年以上), TypeScript(半年以上) |
+|  フレームワーク  |  echo(1年以上), Spring(2年半以上), CakePHP(1年半以上), Laravel(半年以上), <br>backbone.js(1年半以上), Vue.js(半年以上), React.js(半年以上), Redux(半年以上), Nuxt.js(半年未満)  |
+|  DB  |  MySQL  |
+|  OS  |  Linux, VMware, OpenStack  |
+|  バージョン管理  |  git, subversion  |
+|  CI/CD  |  Jenkins, CircleCI, CodeBuild  |
+|  クラウド |  EC2, CodeCommit, Lambda, RDS, ECS, ECR, Beanstalk, Step Functions, CDK, Cloud Formation |
+|  テスト  |  go test, Junit, PHPUnit, Cypress  |
+|  その他  |  Swagger  |
 
 ## マネジメント
 プロジェクトマネージャー兼プロジェクトリーダーとして6名規模のマネジメント経験
@@ -31,50 +40,66 @@
 チームとして機能できていなかったエンジニアチームにジョインして、チームとして機能できる状態を作り、生産性を向上させました。具体的には、チーム運営のルール化やバックログの整理、ステークホルダーとの関わり方を明確にするなどを行いました。
 このような業績から、単価を上げて頂くことができました。
 
+# イベント登壇履歴
+## 2020/11/4 Go と LINE BOT 最初の一歩 勉強会 \[ミニアプリNight\]
+- 単独登壇
+- [イベントページ](https://linedevelopercommunity.connpass.com/event/192599/)
+    - 参加者数： 202人
+- [登壇資料](https://speakerdeck.com/yagieng/go-to-line-bot-ni-matometeru-men-suru)
+- [登壇模様](https://youtu.be/zF5n0CMS-L4?t=173)
+    - 2:53あたりから、編集によって変更の可能性あり
+- 登壇内容
+    - GoでのLINE BOT開発を通じて、Goの基本事項や特徴、LINE BOT(Messaging API)の概要を講義形式で学ぶ
+
+## 2020/7/27 LINE Developer Community ミニアプリ(LIFFアプリ) LT祭り！
+- LT登壇
+- [イベントページ](https://linedevelopercommunity.connpass.com/event/180970/)
+    - 参加者数： 208人
+- [登壇資料](https://speakerdeck.com/yagieng/lifftolinebotwolian-xi-sasetetukuruyin-shi-dian-jian-suo-apuri)
+- [登壇模様](https://youtu.be/Zovkb7-SEJo?t=375)
+    - 6:14あたりから、編集によって変更の可能性あり
+- 登壇内容
+    - LINEBOTとLIFFを連携させてつくる飲食店検索アプリ
+
+## 2020/5/25 LINE Developer Community 初登壇者祭り
+- LT登壇
+- [イベントページ](https://linedevelopercommunity.connpass.com/event/175751/)
+    - 参加者数： 152人
+- [登壇資料](https://speakerdeck.com/yagieng/liffdelinegong-shi-akauntoshang-niyu-yue-huomuwozuo-cheng-suru)
+- [登壇模様](https://youtu.be/kczaohan7H4?t=1504)
+    - 25:04あたりから、編集によって変更の可能性あり
+- 登壇内容
+    - LIFFでLINE公式アカウント（旧LINE＠）上に予約フォームを作成する
+
 # ポートフォリオ・作品
 ## Resto Clip
+<img src="https://github.com/yagi-eng/yagi-eng/blob/master/img/restoclip1.jpg?raw=true" width="200px"> <img src="https://github.com/yagi-eng/yagi-eng/blob/master/img/restoclip2.jpg?raw=true" width="200px">
+
 - 概要
   - 飲食店の検索やお気に入り登録ができるLINEミニアプリ／LINE BOT
-- Repository・詳細】
-  - https://github.com/yagi-eng/place-search
+- [Repository・詳細](https://github.com/yagi-eng/place-search)
 
 ## Virtual Travel
+<img src="https://github.com/yagi-eng/yagi-eng/blob/master/img/virtualtravel.jpg?raw=true" width="200px">
+
 - 概要
   - 観光地の検索やお気に入り登録ができるLINE BOT
-- Repository・詳細】
-  - https://github.com/yagi-eng/place-search
+- [Repository・詳細](https://github.com/yagi-eng/place-search)
 
 ## ランダムにグループ分け
 ![demo.gif](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/113263/927f2061-54bd-c89d-d27c-b2b0567e5930.gif)
+
 - 概要
   - 交流会などで複数回グループ分けを行う際に、なるべく重複がないようにランダムにグループ分けするツール
-- Repository・詳細】
-  - https://github.com/yagi-eng/group_shuffle_gui
+- [Repository・詳細](https://github.com/yagi-eng/group_shuffle_gui)
 
 ## メモ電卓（Androidアプリ）
+<img src="https://github.com/yagi-eng/yagi-eng/blob/master/img/memo_dentaku.PNG?raw=true" width="200px">
+
 - 概要
   - 電卓の計算結果をメモと共に保存することができるアプリ
-- Repository・詳細
-  - https://github.com/yagi-eng/Calculator
- - Google Play Store
-   - https://play.google.com/store/apps/details?id=com.yagiyagi21.android.calculator&hl=ja
-
-# LT登壇履歴
-## 2020/7/27 LINE Developer Community ミニアプリ(LIFFアプリ) LT祭り！
-- イベントURL
-  - https://linedevelopercommunity.connpass.com/event/180970/
-- 登壇資料
-  - https://www.slideshare.net/ssuser11af3b1/lifflinebot
-- 登壇模様（6:14あたりから、編集によって変更の可能性あり）
-  - https://youtu.be/Zovkb7-SEJo?t=375
-
-## 2020/5/25 LINE Developer Community 初登壇者祭り
-- イベントURL
-  - https://linedevelopercommunity.connpass.com/event/175751/
-- 登壇資料
-  - https://www.slideshare.net/ssuser11af3b1/liffline
-- 登壇模様（25:04あたりから、編集によって変更の可能性あり）
-  - https://youtu.be/kczaohan7H4?t=1504
+- [Repository・詳細](https://github.com/yagi-eng/Calculator)
+ - [Google Play Store](https://play.google.com/store/apps/details?id=com.yagiyagi21.android.calculator&hl=ja)
 
 # 保有資格
 - 応用情報技術者試験
@@ -95,10 +120,30 @@
 - SEO関連ツール制作 2件
 
 # 職務詳細
+## 某業界向けERP開発
+【期間】
+
+2020年9月〜現在
+
+【プロジェクト内容】
+
+IT化が進んでいない某業界向けのERP開発
+
+【担当】
+
+- Webアプリケーションエンジニア
+
+【環境】
+
+HTML, CSS, TypeScript, React.js, Go, echo, Python, AWS(EC2, CodeCommit, Lambda, RDS, ECS, ECR, Beanstalk, Step Functions, CDK, Cloud Formation), Swagger  
+
+【要員数】
+8名
+
 ## エクセルデータ管理からデータベースへの移行PJ 
 【期間】
 
-2020年7月〜現在（～2020年7月は副業として参画）
+2020年7月〜2020年8月（～2020年7月は副業として参画）
 
 【プロジェクト内容】
 
@@ -111,7 +156,7 @@
 
 【環境】
 
-HTML, CSS, JavaScript, Vue.js, PHP7, Laravel6, CircleCI, AWS
+HTML, CSS, JavaScript, Vue.js, PHP7, Laravel6, PHPUnit, AWS(EC2, CodeCommit), Cypress
 
 【要員数】
 7名
@@ -133,7 +178,7 @@ HTML, CSS, JavaScript, Vue.js, PHP7, Laravel6, CircleCI, AWS
 
 【環境】
 
-HTML, CSS, JavaScript, Backbone.js, Vue.js, Java8, Spring3, PHP5, CakePHP2, Jenkins, CircleCI, AWS
+HTML, CSS, JavaScript, Backbone.js, Vue.js, Java8, Spring3, PHP5, CakePHP2, Jenkins, CircleCI, AWS(EC2)
 
 
 【要員数】
