@@ -18,7 +18,7 @@ In addition, I am also involved in the following non-work related activities.
 |  key  |  value  |
 | ---- | ---- |
 |  Language  |  Go(more than 1 year), Python(more than 0.5 years), Java(more than 2.5 years), PHP(more than 2.5 years), C/C++(more than 1 year), <br>JavaScript(more than 3 years), TypeScript(more than 0.5 years) |
-|  Framework  |  echo(more than 1 year), Spring(More than 2.5 years), CakePHP(More than 1.5 years), Laravel(more than 0.5 years), <br>backbone.js(More than 1.5 years), Vue.js(more than 0.5 years), React.js(more than 0.5 years), Redux(more than 0.5 years), Nuxt.js(less than 0.5 years)  |
+|  Framework  |  echo(more than 1 year), Spring(more than 2.5 years), CakePHP(more than 1.5 years), Laravel(more than 0.5 years), <br>backbone.js(more than 1.5 years), Vue.js(more than 0.5 years), React.js(more than 0.5 years), Redux(more than 0.5 years), Nuxt.js(less than 0.5 years)  |
 |  DB  |  MySQL  |
 |  OS  |  Linux, VMware, OpenStack  |
 |  Version control system  |  git, subversion  |
