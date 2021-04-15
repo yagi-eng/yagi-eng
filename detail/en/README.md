@@ -1,5 +1,5 @@
 # Profile
-When I was a 3rd and 4th year student at university, I did an internship at a venture company and experienced developing in-house tools. After that, I joined a major IT company and have been engaged in web application development and private cloud planning and construction. Less than a year and a half after joining the company, I was selected as the leader of a PJ which budget is approximately 0.9 million dollars, and completed the PJ as planned by negotiating with various departments and dealing with issues.
+When I was a 3rd and 4th year student at university, I did an internship at a venture company and experienced developing in-house tools. After that, I joined a major IT company and ha been engaged in web application development and private cloud planning and construction. Less than a year and a half after joining the company, I was selected as the leader of a PJ which budget is approximately 0.9 million dollars, and completed the PJ as planned by negotiating with various departments and dealing with issues.
 
 Currently, I am working as a freelance web engineer, doing both front-end and back-end development. I sometimes join new development projects and get involved in selecting technologies such as languages and architectures, as well as reviewing PJ management policies. I may also be entrusted to coordinate with other departments.
 
