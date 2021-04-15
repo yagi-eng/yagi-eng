@@ -17,8 +17,8 @@ In addition, I am also involved in the following non-work related activities.
 ## Technical experience
 |  key  |  value  |
 | ---- | ---- |
-|  Language  |  Go(more than a year), Python(more than half a year), Java(More than 2.5 years), PHP(More than 2.5 years), C/C++(more than a year), <br>JavaScript(More than 3 years), TypeScript(more than half a year) |
-|  Framework  |  echo(more than a year), Spring(More than 2.5 years), CakePHP(More than 1.5 years), Laravel(more than half a year), <br>backbone.js(More than 1.5 years), Vue.js(more than half a year), React.js(more than half a year), Redux(more than half a year), Nuxt.js(less than half a year)  |
+|  Language  |  Go(more than 1 year), Python(more than 0.5 years), Java(more than 2.5 years), PHP(more than 2.5 years), C/C++(more than 1 year), <br>JavaScript(more than 3 years), TypeScript(more than 0.5 years) |
+|  Framework  |  echo(more than 1 year), Spring(More than 2.5 years), CakePHP(More than 1.5 years), Laravel(more than 0.5 years), <br>backbone.js(More than 1.5 years), Vue.js(more than 0.5 years), React.js(more than 0.5 years), Redux(more than 0.5 years), Nuxt.js(less than 0.5 years)  |
 |  DB  |  MySQL  |
 |  OS  |  Linux, VMware, OpenStack  |
 |  Version control system  |  git, subversion  |
