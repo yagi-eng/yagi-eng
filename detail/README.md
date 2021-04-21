@@ -41,6 +41,16 @@
 このような業績から、単価を上げて頂くことができました。
 
 # イベント登壇履歴
+## 2021/4/20 Gopher道場 強化稽古 - ジェネリクス編
+- LT登壇
+- [イベントページ](https://gopherdojo.connpass.com/event/207172/)
+    - 参加者数： 36人
+- [登壇資料1](https://speakerdeck.com/yagieng/si-gayokushi-u-gopatukezi)
+- [登壇資料2](https://qiita.com/yagi_eng/items/65cd812107362d36ae86)
+- 登壇模様
+- 登壇内容
+    - 私が良く使うGoパッケージ
+
 ## 2020/11/4 Go と LINE BOT 最初の一歩 勉強会 \[ミニアプリNight\]
 - 単独登壇
 - [イベントページ](https://linedevelopercommunity.connpass.com/event/192599/)
