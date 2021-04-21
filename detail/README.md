@@ -47,7 +47,6 @@
     - 参加者数： 36人
 - [登壇資料1](https://speakerdeck.com/yagieng/si-gayokushi-u-gopatukezi)
 - [登壇資料2](https://qiita.com/yagi_eng/items/65cd812107362d36ae86)
-- 登壇模様
 - 登壇内容
     - 私が良く使うGoパッケージ
 
