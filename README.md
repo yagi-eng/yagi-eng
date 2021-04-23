@@ -10,7 +10,7 @@
 |  Instagram  |  [@yaginu_travels_around](https://www.instagram.com/yaginu_travels_around/) <br>旅行の写真を投稿（東南アジアバックパックなど） <br>[@yaginu_nakame_lunch](https://www.instagram.com/yaginu_nakame_lunch/) <br>中目黒周辺のグルメ情報を投稿  |
 |  性格診断結果  |  [クマ型](https://16test.uranaino.net/udata/cINlVQHf3OkU6jlTtw7j ) <br>マネージャー職が適職だそう  |
 |  好きな言語  |  Go  |
-|  興味のあること  |  個人サービス開発  |
+|  興味のあること  |  個人サービス開発、スタートアップでの開発  |
 
 大学3,4年生の時にベンチャー企業のインターンシップで社内ツールの開発を経験。その後は大手SIer企業に入社し、Webアプリケーションの開発やプライベートクラウドの企画・構築に従事してきました。入社して1年半経たない頃には約1億円規模のPJのリーダーに抜擢され、様々な部署との調整や課題対応を行うことで、PJを計画通りに完遂しました。
 
