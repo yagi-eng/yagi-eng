@@ -2,6 +2,7 @@
 | ---- | ---- |
 |  名前  |  やぎぬ  |
 |  Qiita  |  [@yagi_eng](https://qiita.com/yagi_eng)<br>複数回トレンド入り、最高でデイリー1位<br>[![My Qiita posts](https://qiita-badge.apiapi.app/s/yagi_eng/posts.svg)](http://qiita.com/yagi_eng) ![My Qiita contributions](https://qiita-badge.apiapi.app/s/yagi_eng/contributions.svg)  |
+|  Zenn  |  [@yagi_eng](https://zenn.dev/yagi_eng/books)  |
 |  Twitter  |  [@yagi_eng](https://twitter.com/yagi_eng)  |
 |  note  |  [@yagi_eng](https://note.com/yagi_eng) |
 |  Speaker Deck  |  [@yagieng](https://speakerdeck.com/yagieng) |
