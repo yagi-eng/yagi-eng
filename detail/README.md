@@ -16,7 +16,7 @@
 |  種別  |  詳細  |
 | ---- | ---- |
 |  言語  |  Go(1年半), Python(1年), Java(2年半), PHP(2年半以上), C/C++(1年), <br>JavaScript(3年半), TypeScript(1年) |
-|  フレームワーク  |  echo(1年半), Spring(2年半), CakePHP(1年半), Laravel(半年), <br>backbone.js(1年半), Vue.js(半年), React.js(1年), Redux(半年), Nuxt.js(半年未満)  |
+|  フレームワーク  |  echo(1年半), Spring(2年半), CakePHP(1年半), Laravel(半年), <br>React.js(1年), Redux(半年), Vue.js(半年), Nuxt.js(半年未満), backbone.js(1年半)  |
 |  DB  |  MySQL  |
 |  OS  |  Linux, VMware, OpenStack  |
 |  バージョン管理  |  git, subversion  |
