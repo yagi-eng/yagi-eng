@@ -1,4 +1,4 @@
-■ Summary
+■ Profile
 |  key  |  value  |
 | ---- | ---- |
 |  名前  |  やぎぬ  |
@@ -7,7 +7,7 @@
 |  note  |  [@yagi_eng](https://note.com/yagi_eng) |
 |  Twitter  |  [@yagi_eng](https://twitter.com/yagi_eng)  |
 
-■ Supplements
+■ Profile Supplements
 |  key  |  value  |
 | ---- | ---- |
 |  Wantedly  |  [@yagi_eng](https://www.wantedly.com/id/yagi_eng)  |
@@ -18,7 +18,7 @@
 |  興味のあること  |  個人サービス開発、スタートアップでの開発、仮想通貨  |
 |  趣味  |  海外旅行、体を動かすこと、アクティビティ全般  |
 
-■ Profile
+■ Summary
 
 大学3,4年生の時にベンチャー企業のインターンシップで社内ツールの開発を経験。その後は大手SIer企業に入社し、Webアプリケーションの開発やプライベートクラウドの企画・構築に従事してきました。入社して1年半経たない頃には約1億円規模のPJのリーダーに抜擢され、様々な部署との調整や課題対応を行うことで、PJを計画通りに完遂しました。
 
