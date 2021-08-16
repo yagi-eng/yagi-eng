@@ -1,7 +1,7 @@
 # プロフィール
 大学3,4年生の時にベンチャー企業のインターンシップで社内ツールの開発を経験。その後は大手SIer企業に入社し、Webアプリケーションの開発やプライベートクラウドの企画・構築に従事してきました。入社して1年半経たない頃には約1億円規模のPJのリーダーに抜擢され、様々な部署との調整や課題対応を行うことで、PJを計画通りに完遂しました。
 
-現在はWebエンジニアとしてフリーで活動をしており、フロントエンド・バックエンド両方の開発を行っています。新規開発案件にジョインして、言語やアーキテクチャなどの技術選定や、PJ運営方針の検討に携わることもあります。また、他部署との調整業務などを一任頂くこともあります。
+現在はフリーランスのWebエンジニアとして活動しており、バックエンド開発を中心に、フロントエンド開発やAWSを利用したサービスの構築なども行っています。新規開発案件にジョインして、言語やアーキテクチャなどの技術選定や、PJ運営方針の検討に携わることもあります。また、他部署との調整業務などを一任頂くこともあります。
 
 会社員時代に得た幅広い経験やフリーランスとしての専門的な経験を活かし、円滑に開発を進めるためのチーム最適化など、開発だけに留まらず様々な対応が可能です。
 
@@ -15,15 +15,15 @@
 ## 技術経験
 |  種別  |  詳細  |
 | ---- | ---- |
-|  言語  |  Go(1年半), Python(1年), Java(2年半), PHP(2年半以上), C/C++(1年), <br>JavaScript(3年半), TypeScript(1年) |
+|  言語  |  Go(1年半), Python(1年), Java(2年半), PHP(2年半以上), C/C++(1年), <br>TypeScript(1年), JavaScript(3年半) |
 |  フレームワーク  |  echo(1年半), Spring(2年半), CakePHP(1年半), Laravel(半年), <br>React.js(1年), Redux(半年), Vue.js(半年), Nuxt.js(半年未満), backbone.js(1年半)  |
 |  DB  |  MySQL  |
 |  OS  |  Linux, VMware, OpenStack  |
 |  バージョン管理  |  git, subversion  |
 |  CI/CD  |  Jenkins, CircleCI, CodeBuild  |
-|  クラウド |  EC2, CodeCommit, Lambda, RDS, ECS, ECR, Beanstalk, Step Functions, CloudWatch, Security Manager, CDK, Cloud Formation |
+|  クラウド |  EC2, CodeCommit, Lambda, RDS, ECS, ECR, Beanstalk, Step Functions, CloudWatch, Secrets Manager, CDK, Cloud Formation |
 |  テスト  |  go test, Junit, PHPUnit, Cypress  |
-|  その他  |  OpenAPI(Swagger), Clean Architecture  |
+|  その他  |  OpenAPI(Swagger), Clean Architecture, MVC  |
 
 ## マネジメント
 プロジェクトマネージャー兼プロジェクトリーダーとして6名規模のマネジメント経験
@@ -38,6 +38,7 @@
 
 ## 現在（フリーランス）
 チームとして機能できていなかったエンジニアチームにジョインして、チームとして機能できる状態を作り、生産性を向上させました。具体的には、チーム運営のルール化やバックログの整理、ステークホルダーとの関わり方を明確にするなどを行いました。
+また、新規開発案件にジョインし、バックエンド開発のリーダーとして言語やライブラリなどの技術選定を行ったこともあります。
 このような業績から、単価を上げて頂くことができました。
 
 # イベント登壇履歴
@@ -146,10 +147,12 @@ IT化が進んでいない某業界向けのERP開発
 【担当】
 
 - Webアプリケーションエンジニア
+- バックエンド開発のリーダー
+- フロントエンド開発やAWSを用いたサービス構築も担当
 
 【環境】
 
-HTML, CSS, TypeScript, React.js, Go, echo, Python, AWS(EC2, CodeCommit, Lambda, RDS, ECS, ECR, Beanstalk, Step Functions, CloudWatch, Security Manager, CDK, Cloud Formation), OpenAPI  
+HTML, CSS, TypeScript, React.js, Go, echo, Python, AWS(EC2, CodeCommit, Lambda, RDS, ECS, ECR, Beanstalk, Step Functions, CloudWatch, Secrets Manager, CDK, Cloud Formation), OpenAPI, Clean Architecture
 
 【要員数】
 8名
