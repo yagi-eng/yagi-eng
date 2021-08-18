@@ -23,7 +23,7 @@
 |  CI/CD  |  Jenkins, CircleCI, CodeBuild  |
 |  クラウド |  EC2, CodeCommit, Lambda, RDS, ECS, ECR, Beanstalk, Step Functions, CloudWatch, Secrets Manager, CDK, Cloud Formation |
 |  テスト  |  go test, Junit, PHPUnit, Cypress  |
-|  その他  |  OpenAPI(Swagger), Clean Architecture, MVC  |
+|  その他  |  OpenAPI(Swagger), Docker, devcontainer, Clean Architecture, MVC  |
 
 ## マネジメント
 プロジェクトマネージャー兼プロジェクトリーダーとして6名規模のマネジメント経験
