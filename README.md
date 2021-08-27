@@ -2,7 +2,7 @@
 |  key  |  value  |
 | ---- | ---- |
 |  名前  |  やぎぬ  |
-|  Qiita  |  [@yagi_eng](https://qiita.com/yagi_eng)<br>複数回トレンド入り、最高でデイリー1位<br>[![My Qiita posts](https://qiita-badge.apiapi.app/s/yagi_eng/posts.svg)](http://qiita.com/yagi_eng) ![My Qiita contributions](https://qiita-badge.apiapi.app/s/yagi_eng/contributions.svg)  |
+|  Qiita  |  [@yagi_eng](https://qiita.com/yagi_eng)<br>複数回トレンド入り、最高でデイリー1位<br>[![My Qiita posts](https://qiita-badge.apiapi.app/s/yagi_eng/posts.svg)](http://qiita.com/yagi_eng) ![My Qiita contributions](https://qiita-badge.apiapi.app/s/yagi_eng/contributions.svg)<br>※Zennへ移行中  |
 |  Zenn  |  [@yagi_eng](https://zenn.dev/yagi_eng/books)  |
 |  note  |  [@yagi_eng](https://note.com/yagi_eng) |
 |  Twitter  |  [@yagi_eng](https://twitter.com/yagi_eng)  |
