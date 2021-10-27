@@ -8,7 +8,7 @@ Using the wide range of experience I gained as a company employee and my profess
 In addition, I am also involved in the following non-work related activities.
 
 - Speaking at events (in front of about 120 people)
-- Developing a restaurant search LINEBOT (over 250 registered friends)
+- Developing a restaurant search LINEBOT (over 300 registered friends)
 - Regularly posting on Qiita (trending multiple times, highest daily ranking: #1)
   - Qiita is like Japanese DEV Community
 
@@ -17,15 +17,15 @@ In addition, I am also involved in the following non-work related activities.
 ## Technical experience
 |  key  |  value  |
 | ---- | ---- |
-|  Language  |  Go(more than 1 year), Python(more than 0.5 years), Java(more than 2.5 years), PHP(more than 2.5 years), C/C++(more than 1 year), <br>JavaScript(more than 3 years), TypeScript(more than 0.5 years) |
-|  Framework  |  echo(more than 1 year), Spring(more than 2.5 years), CakePHP(more than 1.5 years), Laravel(more than 0.5 years), <br>backbone.js(more than 1.5 years), Vue.js(more than 0.5 years), React.js(more than 0.5 years), Redux(more than 0.5 years), Nuxt.js(less than 0.5 years)  |
+|  Language  |  Go(more than 1.5 year), Python(more than 1 years), Java(more than 2.5 years), PHP(more than 2.5 years), C/C++(more than 1 year), <br>JavaScript(more than 3 years), TypeScript(more than 1 years) |
+|  Framework  |  echo(more than 1.5 year), Spring(more than 2.5 years), CakePHP(more than 1.5 years), Laravel(more than 0.5 years), <br>backbone.js(more than 1.5 years), Vue.js(more than 0.5 years), React.js(more than 1 years), Redux(more than 0.5 years), Nuxt.js(less than 0.5 years)  |
 |  DB  |  MySQL  |
 |  OS  |  Linux, VMware, OpenStack  |
 |  Version control system  |  git, subversion  |
 |  CI/CD  |  Jenkins, CircleCI, CodeBuild  |
-|  Cloud |  EC2, CodeCommit, Lambda, RDS, ECS, ECR, Beanstalk, Step Functions, CDK, Cloud Formation |
+|  Cloud |  EC2, CodeCommit, Lambda, RDS, ECS, ECR, Beanstalk, Step Functions, CloudWatch, Secrets Manager, CDK, Cloud Formation |
 |  Test  |  go test, Junit, PHPUnit, Cypress  |
-|  Misc  |  Swagger  |
+|  Misc  |  OpenAPI(Swagger), Docker, devcontainer, Clean Architecture, MVC  |
 
 ## Management
 Experience in managing a team of 6 people as a project manager and project leader
@@ -42,6 +42,15 @@ I was able to receive the best evaluation for the above achievements and attitud
 I joined an engineering team that was not functioning as a team, and created a situation where we could function as a team and improve productivity. Specifically, I made rules for team management, organized the backlog, and clarified how to interact with stakeholders.
 
 # History of speaking at events
+## 2021/4/20 Gopher道場 強化稽古 - ジェネリクス編
+- Lightning talking
+- [event page](https://gopherdojo.connpass.com/event/207172/)
+    - 参加者数： 36人
+- [resume1](https://speakerdeck.com/yagieng/si-gayokushi-u-gopatukezi)
+- [resume2](https://qiita.com/yagi_eng/items/65cd812107362d36ae86)
+- Content
+    - Go packages I often use
+
 ## 2020/11/4 Go と LINE BOT 最初の一歩 勉強会 \[ミニアプリNight\]
 - Sole Speaking
 - [event page](https://linedevelopercommunity.connpass.com/event/192599/)
@@ -121,10 +130,32 @@ Received the following orders through personal sales.
 - SEO related tools: 2 projects
 
 # Job Details
+## investiment & SNS app
+【Duration】
+
+10/2021 〜 now
+
+【Project Description】
+
+investiment & SNS smartphone app development 
+
+【Role】
+
+- Web application engineer
+  - mainly backend
+
+【Development Environment】
+
+Flutter, Go, echo, Solidity, AWS(ECS, RDS, CloudWatch), OpenAPI
+
+【Number of team members】
+
+7
+
 ## ERP development for a certain industry
 【Duration】
 
-09/2020 〜 now
+09/2020 〜 now（10/2021 ~ as a side business）
 
 【Project Description】
 
