@@ -151,7 +151,7 @@
 
 【環境】
 
-Flutter, Go, echo, Solidity, AWS(ECS, RDS, CloudWatch), OpenAPI, Terraform
+Flutter, Go, echo, Solidity, AWS(ECS, ECR, RDS, CloudWatch, Secrets Manager), OpenAPI, Terraform
 
 【要員数】
 7名
