@@ -21,7 +21,7 @@
 |  OS  |  Linux, VMware, OpenStack  |
 |  バージョン管理  |  git, subversion  |
 |  CI/CD  |  Jenkins, CircleCI, CodeBuild  |
-|  クラウド |  EC2, CodeCommit, Lambda, RDS, ECS, ECR, Beanstalk, Step Functions, CloudWatch, Secrets Manager, CDK, Cloud Formation |
+|  クラウド |  EC2, CodeCommit, Lambda, RDS, ECS, ECR, Beanstalk, Step Functions, CloudWatch, Secrets Manager, CDK, Cloud Formation, Terraform |
 |  テスト  |  go test, Junit, PHPUnit, Cypress  |
 |  その他  |  OpenAPI(Swagger), Docker, devcontainer, Clean Architecture, MVC  |
 
@@ -151,7 +151,7 @@
 
 【環境】
 
-Flutter, Go, echo, Solidity, AWS(ECS, RDS, CloudWatch), OpenAPI
+Flutter, Go, echo, Solidity, AWS(ECS, RDS, CloudWatch), OpenAPI, Terraform
 
 【要員数】
 7名
