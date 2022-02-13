@@ -21,7 +21,7 @@
 |  OS  |  Linux, VMware, OpenStack  |
 |  バージョン管理  |  git, subversion  |
 |  CI/CD  |  Jenkins, CircleCI, CodeBuild  |
-|  クラウド |  EC2, CodeCommit, Lambda, RDS, ECS, ECR, Beanstalk, Step Functions, CloudWatch, Secrets Manager, CDK, Cloud Formation, Terraform |
+|  クラウド |  EC2, CodeCommit, Lambda, RDS, ECS, ECR, Beanstalk, Step Functions, CloudWatch, Secrets Manager, CDK, Cloud Formation, Terraform, Heroku, Vercel, Netlify, Render |
 |  テスト  |  go test, Junit, PHPUnit, Cypress  |
 |  その他  |  OpenAPI(Swagger), Docker, devcontainer, storybook, styled-component, Clean Architecture, MVC  |
 
