@@ -83,7 +83,7 @@
 
 # ポートフォリオ・作品
 ## Heart Rate Art
-<img src="https://github.com/yagi-eng/yagi-eng/blob/master/img/heart_rate_art.png?raw=true" width="200px">
+<img src="https://github.com/yagi-eng/yagi-eng/blob/master/img/heart_rate_art.png?raw=true">
 
 - 概要
   - ユーザの心拍数を基にNFTアートを生成するWebアプリ
