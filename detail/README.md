@@ -85,8 +85,7 @@
 ## Heart Rate Art
 - 概要
   - ユーザの心拍数を基にNFTアートを生成するWebアプリ
-- Webページ
-  - https://heart-rate.art/
+- [Webページ](https://heart-rate.art)
 
 ## Resto Clip
 <img src="https://github.com/yagi-eng/yagi-eng/blob/master/img/restoclip1.jpg?raw=true" width="200px"> <img src="https://github.com/yagi-eng/yagi-eng/blob/master/img/restoclip2.jpg?raw=true" width="200px">
