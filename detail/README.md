@@ -83,6 +83,8 @@
 
 # ポートフォリオ・作品
 ## Heart Rate Art
+<img src="https://github.com/yagi-eng/yagi-eng/blob/master/img/heart_rate_art.png?raw=true" width="200px">
+
 - 概要
   - ユーザの心拍数を基にNFTアートを生成するWebアプリ
 - [Webページ](https://heart-rate.art)
@@ -122,7 +124,7 @@
 - TOEIC　685点
 
 # 学歴
-- 2017年3月　東京理科大学　理工学部　情報科学学科　卒業 
+- 2017年3月　東京理科大学　理工学部　情報科学学科　卒業
 - 2013年4月　東京理科大学　理工学部　情報科学学科　入学
 
 # 社歴
@@ -184,7 +186,7 @@ HTML, CSS, TypeScript, React.js, Go, echo, Python, AWS(EC2, CodeCommit, Lambda, 
 【要員数】
 8名
 
-## エクセルデータ管理からデータベースへの移行PJ 
+## エクセルデータ管理からデータベースへの移行PJ
 【期間】
 
 2020年7月〜2020年8月（～2020年7月は副業として参画）
