@@ -15,8 +15,8 @@
 ## 技術経験
 |  種別  |  詳細  |
 | ---- | ---- |
-|  言語  |  Go(1年半), Python(1年), Java(2年半), PHP(2年半以上), C/C++(1年), <br>TypeScript(1年), JavaScript(3年半) |
-|  フレームワーク  |  echo(1年半), Spring(2年半), CakePHP(1年半), Laravel(半年), <br>React.js(1年), Redux(半年), Vue.js(半年), Nuxt.js(半年未満), backbone.js(1年半)  |
+|  言語  |  Solidity(半年未満), Go(1年半), Python(1年), Java(2年半), PHP(2年半以上), C/C++(1年), <br>TypeScript(1年), JavaScript(3年半) |
+|  フレームワーク  |  echo(1年半), Spring(2年半), CakePHP(1年半), Laravel(半年), <br>Web3.js(半年未満), React.js(1年), Redux(半年), Vue.js(半年), Nuxt.js(半年未満), backbone.js(1年半)  |
 |  DB  |  MySQL  |
 |  OS  |  Linux, VMware, OpenStack  |
 |  バージョン管理  |  git, subversion  |
@@ -82,6 +82,12 @@
     - LIFFでLINE公式アカウント（旧LINE＠）上に予約フォームを作成する
 
 # ポートフォリオ・作品
+## Heart Rate Art
+- 概要
+  - ユーザの心拍数を基にNFTアートを生成するWebアプリ
+- Webページ
+  - https://heart-rate.art/
+
 ## Resto Clip
 <img src="https://github.com/yagi-eng/yagi-eng/blob/master/img/restoclip1.jpg?raw=true" width="200px"> <img src="https://github.com/yagi-eng/yagi-eng/blob/master/img/restoclip2.jpg?raw=true" width="200px">
 
@@ -148,6 +154,7 @@
 
 - Webアプリケーションエンジニア
   - バックエンドメイン
+- スクラムマスター
 
 【環境】
 
