@@ -15,8 +15,8 @@
 |  Instagram  |  [@yaginu_travels_around](https://www.instagram.com/yaginu_travels_around/) <br>旅行の写真を投稿（東南アジアバックパックなど） <br>[@yaginu_nakame_lunch](https://www.instagram.com/yaginu_nakame_lunch/) <br>池袋周辺のグルメ情報を投稿  |
 |  性格診断結果  |  [クマ型](https://16test.uranaino.net/udata/cINlVQHf3OkU6jlTtw7j ) <br>マネージャー職が適職だそう  |
 |  好きな言語  |  Go  |
-|  興味のあること  |  個人サービス開発、スタートアップでの開発、ブロックチェーン  |
-|  趣味  |  海外旅行、体を動かすこと、アクティビティ全般  |
+|  興味のあること  |  ブロックチェーン/crypto/DAO、個人サービス開発、スタートアップでの開発  |
+|  趣味  |  海外旅行、体を動かすこと、アクティビティ全般、ゲーム  |
 
 ■ Summary
 
