@@ -2,7 +2,7 @@
 |  key  |  value  |
 | ---- | ---- |
 |  Name  |  Kohei Yaginuma  |
-|  Qiita  |  [@yagi_eng](https://qiita.com/yagi_eng)<br>Trending multiple times, Daily trend #1 at most<br>[![My Qiita posts](https://qiita-badge.apiapi.app/s/yagi_eng/posts.svg)](http://qiita.com/yagi_eng) ![My Qiita contributions](https://qiita-badge.apiapi.app/s/yagi_eng/contributions.svg)<br>※Moved to Zenn  |
+|  Qiita  |  [@yagi_eng](https://qiita.com/yagi_eng)<br>Trending multiple times, Highest daily ranking: #1<br>[![My Qiita posts](https://qiita-badge.apiapi.app/s/yagi_eng/posts.svg)](http://qiita.com/yagi_eng) ![My Qiita contributions](https://qiita-badge.apiapi.app/s/yagi_eng/contributions.svg)<br>※Moved to Zenn  |
 |  Zenn  |  [@yagi_eng](https://zenn.dev/yagi_eng/books)  |
 |  note  |  [@yagi_eng](https://note.com/yagi_eng) |
 |  Twitter  |  [@yagi_eng](https://twitter.com/yagi_eng)  |
@@ -12,26 +12,31 @@
 | ---- | ---- |
 |  Wantedly  |  [@yagi_eng](https://www.wantedly.com/id/yagi_eng)  |
 |  Speaker Deck  |  [@yagieng](https://speakerdeck.com/yagieng) |
-|  Instagram  |  [@yaginu_travels_around](https://www.instagram.com/yaginu_travels_around/) <br>Post about trip（backpacking at SEA, etc...） <br>[@yaginu_nakame_lunch](https://www.instagram.com/yaginu_nakame_lunch/) <br>Post Ikebukuro area gourmet info  |
-|  Personality test  |  [My suitable job seems to be manager](https://16test.uranaino.net/udata/cINlVQHf3OkU6jlTtw7j)  |
+|  Instagram  |  [@yaginu_travels_around](https://www.instagram.com/yaginu_travels_around/) <br>Post my trip（backpacking at SEA, etc...） <br>[@yaginu_nakame_lunch](https://www.instagram.com/yaginu_nakame_lunch/) <br>Post Ikebukuro area gourmet info  |
+|  Personality test  |  [My suitable job seems to be a manager](https://16test.uranaino.net/udata/cINlVQHf3OkU6jlTtw7j)  |
 |  Favorite languages  |  Solidity, Go  |
 |  Interests  |  Blockchain/Web3/Crypto/DAO, Personal project、Work at a startup  |
 |  Hobbies  |  Travel abroad, Muscle Trainning/Swimming/Kickboxing, Activites, Game  |
 
 ■ Summary
 
-大学3,4年生の時にベンチャー企業のインターンシップで社内システムの開発を経験。その後は大手SIer企業に入社し、Webアプリケーション開発やクラウドの企画・構築に従事してきました。入社して1年半経たない頃には約1億円規模のPJのリーダーに抜擢され、様々な部署との調整や課題対応を行うことで、PJを計画通りに完遂しました。
+When I was a college student, I did a two-year internship at a startup company, and developed in-house products. After that, I joined a major Software company and had been engaged in web application development and cloud planning and construction. Less than a year and a half after joining the company, I was selected as the leader of a project worth approximately 0.9 million dollars, and completed the project as planned by coordinating with various departments and handling issues.
 
-現在はフリーのWebエンジニアとして活動をしており、フロントエンド・バックエンド両方の開発やマネジメント業務を行っています。新規開発案件にジョインして、言語やアーキテクチャなどの技術選定や、PJ運営方針の検討に携わることもあります。また、他部署との調整業務などを一任頂くこともあります。
+I am currently working as a freelance web engineer, doing both front-end and back-end development and management. I sometimes join new development projects and am involved in the selection of technologies such as languages and architectures, as well as the consideration of PJ management policies. In addition, I may be entrusted with coordinating with other departments.
 
-円滑なチーム開発を実現するための最適化など、開発だけに留まらず様々な対応が可能です。
+I can handle a variety of tasks beyond development, such as optimization for smooth team development.
 
-また、以下のように業務以外のことにも取り組んでいます。
+In addition, I am also involved in the following non-work related activities.
 
 - 心拍数からNFTアートを生成するdAppを開発
 - 飲食店検索LINEBOTを開発（友だち登録数300人超え）
 - イベント登壇（ほぼ単独で約120人の前で登壇）
 - 定期的にQiita, Zennへ投稿（複数回トレンド入り、最高でデイリー1位）
+
+- Developing a restaurant search LINEBOT (over 300 registered friends)
+- Speaking at events (in front of about 120 people)
+- Regularly posting on Qiita/Zenn (trending multiple times, highest daily ranking: #1)
+  - Qiita/Zenn is like Japanese DEV Community
 
 Recently, I'm really into web3. I have been working on developing dApps in my free time.
 
