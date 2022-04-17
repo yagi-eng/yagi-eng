@@ -28,11 +28,6 @@ I can handle a variety of tasks beyond development, such as optimization for smo
 
 In addition, I am also involved in the following non-work related activities.
 
-- 心拍数からNFTアートを生成するdAppを開発
-- 飲食店検索LINEBOTを開発（友だち登録数300人超え）
-- イベント登壇（ほぼ単独で約120人の前で登壇）
-- 定期的にQiita, Zennへ投稿（複数回トレンド入り、最高でデイリー1位）
-
 - Developing a restaurant search LINEBOT (over 300 registered friends)
 - Speaking at events (in front of about 120 people)
 - Regularly posting on Qiita/Zenn (trending multiple times, highest daily ranking: #1)
