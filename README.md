@@ -14,8 +14,8 @@
 |  Speaker Deck  |  [@yagieng](https://speakerdeck.com/yagieng) |
 |  Instagram  |  [@yaginu_travels_around](https://www.instagram.com/yaginu_travels_around/) <br>Post about trip（backpacking at SEA, etc...） <br>[@yaginu_nakame_lunch](https://www.instagram.com/yaginu_nakame_lunch/) <br>Post Ikebukuro area gourmet info  |
 |  Personality test  |  [My suitable job seems to be manager](https://16test.uranaino.net/udata/cINlVQHf3OkU6jlTtw7j)  |
-|  Favorite language  |  Go  |
-|  Interests  |  Blockchain/crypto/DAO、Personal project、Work at a startup  |
+|  Favorite languages  |  Solidity, Go  |
+|  Interests  |  Blockchain/Web3/Crypto/DAO, Personal project、Work at a startup  |
 |  Hobbies  |  Travel abroad, Muscle Trainning/Swimming/Kickboxing, Activites, Game  |
 
 ■ Summary
@@ -33,6 +33,6 @@
 - イベント登壇（ほぼ単独で約120人の前で登壇）
 - 定期的にQiita, Zennへ投稿（複数回トレンド入り、最高でデイリー1位）
 
-最近は特にWeb3に興味を持っており、上述のように個人でdApp制作に取り組んだりしています。
+Recently, I'm really into web3. I have been working on developing dApps in my free time.
 
-[詳細な実績や経歴はこちら](https://github.com/yagi-eng/yagi-eng/blob/master/detail/README.md)。
+[The detail is here](https://github.com/yagi-eng/yagi-eng/blob/master/detail/README.md)。
