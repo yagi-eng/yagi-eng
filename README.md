@@ -13,7 +13,7 @@
 |  Wantedly  |  [@yagi_eng](https://www.wantedly.com/id/yagi_eng)  |
 |  Speaker Deck  |  [@yagieng](https://speakerdeck.com/yagieng) |
 |  Instagram  |  [@yaginu_travels_around](https://www.instagram.com/yaginu_travels_around/) <br>Post about trip（backpacking at SEA, etc...） <br>[@yaginu_nakame_lunch](https://www.instagram.com/yaginu_nakame_lunch/) <br>Post Ikebukuro area gourmet info  |
-|  Personality test  |  [クマ型](https://16test.uranaino.net/udata/cINlVQHf3OkU6jlTtw7j ) <br> My suitable job seems to be manager  |
+|  Personality test  |  [My suitable job seems to be manager](https://16test.uranaino.net/udata/cINlVQHf3OkU6jlTtw7j)  |
 |  Favorite language  |  Go  |
 |  Interests  |  Blockchain/crypto/DAO、Personal project、Work at a startup  |
 |  Hobbies  |  Travel abroad, Muscle Trainning/Swimming/Kickboxing, Activites, Game  |
