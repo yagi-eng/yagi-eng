@@ -2,6 +2,6 @@
 * [Experience and knowledge](experience.md)
 * [History of speaking at events](speaking_events.md)
 * [Portfolio](portfolio.md)
-* [Miscs](miscs.md)
 * [Job details](jobs.md)
+* [Miscs](miscs.md)
 * [日本語版（非更新）](japanese.md)
