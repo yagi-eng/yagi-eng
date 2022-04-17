@@ -1,2 +1,7 @@
 * [Experience and knowledge](experience.md)
 * [History of speaking at events](speaking_events.md)
+* [Portfolio](portfolio.md)
+* [Miscs](miscs.md)
+* [Job details](jobs.md)
+* [](.md)
+* [](.md)

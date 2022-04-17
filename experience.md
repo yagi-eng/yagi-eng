@@ -17,7 +17,6 @@ Experience in managing a team of 6 people as a project manager and project leade
 
 (Cost planning, purchasing, progress management, task management, risk management, issue handling, coordination with other departments)
 
-
 ## Time as a company employee
 As a leader of new service construction, I stood between each department and completed the construction of the service. (Related departments: Planning, Construction, Sales, Maintenance, and Project Support)
 In addition, I actively engaged in tasks that I had never experienced before, such as mentoring French internship students and serving as an instructor for in-house training about virtualization technology.
