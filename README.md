@@ -34,7 +34,3 @@ In addition, I am also involved in the following non-work related activities.
   - Qiita/Zenn is like Japanese DEV Community
 
 Recently, I'm really into web3. I have been working on developing dApps in my free time.
-
-[The detail is here](https://github.com/yagi-eng/yagi-eng/tree/master/detail/en).
-
-[日本語版詳細はこちら(現在更新していません)](https://github.com/yagi-eng/yagi-eng/tree/master/detail)
