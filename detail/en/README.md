@@ -1,16 +1,18 @@
 # Profile
-When I was a 3rd and 4th year student at university, I did an internship at a venture company and experienced developing in-house tools. After that, I joined a major IT company and ha been engaged in web application development and private cloud planning and construction. Less than a year and a half after joining the company, I was selected as the leader of a PJ which budget is approximately 0.9 million dollars, and completed the PJ as planned by negotiating with various departments and dealing with issues.
+When I was a college student, I did a two-year internship at a startup company, and developed in-house products. After that, I joined a major Software company and had been engaged in web application development and cloud planning and construction. Less than a year and a half after joining the company, I was selected as the leader of a project worth approximately 0.9 million dollars, and completed the project as planned by coordinating with various departments and handling issues.
 
-Currently, I am working as a freelance web engineer, doing both front-end and back-end development. I sometimes join new development projects and get involved in selecting technologies such as languages and architectures, as well as reviewing PJ management policies. I may also be entrusted to coordinate with other departments.
+I am currently working as a freelance web engineer, doing both front-end and back-end development and management. I sometimes join new development projects and am involved in the selection of technologies such as languages and architectures, as well as the consideration of PJ management policies. In addition, I may be entrusted with coordinating with other departments.
 
-Using the wide range of experience I gained as a company employee and my professional experience as a freelancer, I can handle a variety of tasks beyond development, such as optimizing a team for smooth development.
+I can handle a variety of tasks beyond development, such as optimization for smooth team development.
 
 In addition, I am also involved in the following non-work related activities.
 
-- Speaking at events (in front of about 120 people)
 - Developing a restaurant search LINEBOT (over 300 registered friends)
-- Regularly posting on Qiita (trending multiple times, highest daily ranking: #1)
-  - Qiita is like Japanese DEV Community
+- Speaking at events (in front of about 120 people)
+- Regularly posting on Qiita/Zenn (trending multiple times, highest daily ranking: #1)
+  - Qiita/Zenn is like Japanese DEV Community
+
+Recently, I'm really into web3. I have been working on developing dApps in my free time.
 
 
 # Experience and knowledge
