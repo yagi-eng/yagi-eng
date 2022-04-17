@@ -35,4 +35,5 @@ In addition, I am also involved in the following non-work related activities.
 
 Recently, I'm really into web3. I have been working on developing dApps in my free time.
 
-[The detail is here](https://github.com/yagi-eng/yagi-eng/blob/master/detail/README.md)。
+[The detail is here](https://github.com/yagi-eng/yagi-eng/tree/master/detail/en)。
+[日本語版はこちら(更新していません)](https://github.com/yagi-eng/yagi-eng/tree/master/detail)
