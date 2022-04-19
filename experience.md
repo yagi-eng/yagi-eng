@@ -1,14 +1,14 @@
-# Experience and knowledge
+# Experience
 ## Technical experience
 |  key  |  value  |
 | ---- | ---- |
-|  Language  |  Go(more than 1.5 year), Python(more than 1 years), Java(more than 2.5 years), PHP(more than 2.5 years), C/C++(more than 1 year), <br>JavaScript(more than 3 years), TypeScript(more than 1 years) |
-|  Framework  |  echo(more than 1.5 year), Spring(more than 2.5 years), CakePHP(more than 1.5 years), Laravel(more than 0.5 years), <br>backbone.js(more than 1.5 years), Vue.js(more than 0.5 years), React.js(more than 1 years), Redux(more than 0.5 years), Nuxt.js(less than 0.5 years)  |
+|  Language  |  Solidity(more than 0.5 years), Go(more than 2 y), Python(more than 1.5 y), Java(more than 2.5 y), PHP(more than 2.5 y), C/C++(more than 1 y), <br>TypeScript(more than 1.5 y), JavaScript(more than 4 y) |
+|  Framework  |  echo(more than 2 y), Spring(more than 2.5 y), CakePHP(more than 1.5 y), Laravel(more than 0.5 y), <br>Web3.js(more than 0.5 y), React.js(more than 1 y), Redux(more than 1 y), Vue.js(more than 0.5 y), Nuxt.js(less than 0.5 y), backbone.js(more than 1.5 y)  |
 |  DB  |  MySQL  |
 |  OS  |  Linux, VMware, OpenStack  |
 |  Version control system  |  git, subversion  |
 |  CI/CD  |  Jenkins, CircleCI, CodeBuild  |
-|  Cloud |  EC2, CodeCommit, Lambda, RDS, ECS, ECR, Beanstalk, Step Functions, CloudWatch, Secrets Manager, CDK, Cloud Formation |
+|  Cloud |  EC2, CodeCommit, Lambda, RDS, ECS, ECR, Beanstalk, Step Functions, CloudWatch, Secrets Manager, CDK, Cloud Formation, Terraform, Heroku, Vercel, Netlify, Render |
 |  Test  |  go test, Junit, PHPUnit, Cypress  |
 |  Misc  |  OpenAPI(Swagger), Docker, devcontainer, Clean Architecture, MVC  |
 
