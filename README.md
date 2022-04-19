@@ -1,4 +1,4 @@
-<img src="https://github.com/yagi-eng/yagi-eng/blob/master/img/そうだ、とりあえずやってみよ_EN.png?raw=true" width="1200px">
+![top](https://github.com/yagi-eng/yagi-eng/blob/master/img/そうだ、とりあえずやってみよ_EN.png?raw=true)
 
 ## Profile
 |  key  |  value  |
