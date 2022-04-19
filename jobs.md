@@ -1,25 +1,16 @@
 # Job Details
 ## investiment & SNS app
-【Duration】
-
-10/2021 〜 now
-
-【Project Description】
-
-investiment & SNS smartphone app development
-
-【Role】
-
-- Web application engineer
-  - mainly backend
-
-【Development Environment】
-
-Flutter, Go, echo, Solidity, AWS(ECS, RDS, CloudWatch, DynamoDB), OpenAPI
-
-【Number of team members】
-
-7
+- Duration
+  - 10/2021 〜 now
+- Project Description
+  - investiment & SNS smartphone app development
+- Role
+  - Web application engineer, mainly backend
+  - Scrum master
+- Development Environment
+  - Flutter, Go, echo, Solidity, AWS(ECS, RDS, CloudWatch, Secrets Manager, DynamoDB), OpenAPI, Terraform
+- THe number of team members
+  - 8
 
 ## ERP development for a certain industry
 【Duration】
