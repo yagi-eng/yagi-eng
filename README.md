@@ -15,7 +15,7 @@
 |  Instagram  |  [@yaginu_travels_around](https://www.instagram.com/yaginu_travels_around/) <br>Post my trip（backpacking at SEA, etc...） <br>[@yaginu_nakame_lunch](https://www.instagram.com/yaginu_nakame_lunch/) <br>Post Ikebukuro area gourmet info  |
 |  Personality test  |  [My suitable job seems to be a manager](https://16test.uranaino.net/udata/cINlVQHf3OkU6jlTtw7j)  |
 |  Favorite languages  |  Solidity, Go  |
-|  Interests  |  Blockchain/Web3/Crypto/DAO, Personal project、Work at a startup  |
+|  Interests  |  Blockchain/Web3/Crypto/DAO, Personal project, Work at a startup  |
 |  Hobbies  |  Travel abroad, Muscle Trainning/Swimming/Kickboxing, Activites, Game  |
 
 ■ Summary
