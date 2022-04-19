@@ -2,15 +2,15 @@
 ## Technical experience
 |  key  |  value  |
 | ---- | ---- |
-|  Language  |  Solidity(more than 0.5 years), Go(more than 2 y), Python(more than 1.5 y), Java(more than 2.5 y), PHP(more than 2.5 y), C/C++(more than 1 y), <br>TypeScript(more than 1.5 y), JavaScript(more than 4 y) |
-|  Framework  |  echo(more than 2 y), Spring(more than 2.5 y), CakePHP(more than 1.5 y), Laravel(more than 0.5 y), <br>Web3.js(more than 0.5 y), React.js(more than 1 y), Redux(more than 1 y), Vue.js(more than 0.5 y), Nuxt.js(less than 0.5 y), backbone.js(more than 1.5 y)  |
+|  Language  |  Solidity(> 0.5 years), Go(> 2 y), Python(> 1.5 y), Java(> 2.5 y), PHP(> 2.5 y), C/C++(> 1 y), <br>TypeScript(> 1.5 y), JavaScript(> 4 y) |
+|  Framework  |  echo(> 2 y), Spring(> 2.5 y), CakePHP(> 1.5 y), Laravel(> 0.5 y), <br>Web3.js(> 0.5 y), React.js(> 1 y), Redux(> 1 y), Vue.js(> 0.5 y), Nuxt.js(less than 0.5 y), backbone.js(> 1.5 y)  |
 |  DB  |  MySQL  |
 |  OS  |  Linux, VMware, OpenStack  |
 |  Version control system  |  git, subversion  |
 |  CI/CD  |  Jenkins, CircleCI, CodeBuild  |
 |  Cloud |  EC2, CodeCommit, Lambda, RDS, ECS, ECR, Beanstalk, Step Functions, CloudWatch, Secrets Manager, CDK, Cloud Formation, Terraform, Heroku, Vercel, Netlify, Render |
 |  Test  |  go test, Junit, PHPUnit, Cypress  |
-|  Misc  |  OpenAPI(Swagger), Docker, devcontainer, Clean Architecture, MVC  |
+|  Others  |  OpenAPI(Swagger), Docker, devcontainer, Clean Architecture, MVC  |
 
 ## Management
 Experience in managing a team of 6 people as a project manager and project leader
