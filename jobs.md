@@ -15,7 +15,7 @@ investiment & SNS smartphone app development
 
 【Development Environment】
 
-Flutter, Go, echo, Solidity, AWS(ECS, RDS, CloudWatch), OpenAPI
+Flutter, Go, echo, Solidity, AWS(ECS, RDS, CloudWatch, DynamoDB), OpenAPI
 
 【Number of team members】
 
