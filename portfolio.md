@@ -1,6 +1,13 @@
 # Portfolio
+## Heart Rate Art
+<img src="https://github.com/yagi-eng/yagi-eng/blob/master/img/heart_rate_art.png?raw=true">
+
+- Overview
+  - A web app which generates a NFT art based on user's heart rate
+- [Web page](https://heart-rate.art)
+
 ## Resto Clip
-<img src="https://github.com/yagi-eng/yagi-eng/blob/master/img/restoclip1.jpg?raw=true" width="200px"> <img src="https://github.com/yagi-eng/yagi-eng/blob/master/img/restoclip2.jpg?raw=true" width="200px">
+<img src="https://github.com/yagi-eng/yagi-eng/blob/master/img/restoclip1.jpg?raw=true" width="300px"> <img src="https://github.com/yagi-eng/yagi-eng/blob/master/img/restoclip2.jpg?raw=true" width="300px">
 
 - Overview
   - You can search for restaurants and add your favorite ones to this LINE BOT / LINE Mini App.
@@ -18,6 +25,7 @@
 
 - Overview
   - A tool to randomly divide groups to avoid duplication when conducting multiple groupings at social events.
+- [Web page](https://group-shuffle-app.herokuapp.com/)
 - [Repository・Detail](https://github.com/yagi-eng/group_shuffle_gui)
 
 ## Memo calculator（Android App）
