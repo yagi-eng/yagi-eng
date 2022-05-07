@@ -6,6 +6,12 @@
   - A web app which generates a NFT art based on user's heart rate
 - [Web page](https://heart-rate.art)
 
+## A bot to buy crypto using dollar cost averaging
+<img src="https://storage.googleapis.com/zenn-user-upload/ad0c7d352b1f124d4ca6e157.jpg?raw=true" width="300px"> <img src="https://github.com/yagi-eng/yagi-eng/blob/master/img/restoclip2.jpg?raw=true" width="300px">
+- Overview
+  - A bot to buy crypto using dollar cost averaging
+- [Reference](https://zenn.dev/yagi_eng/books/dollar_cost_averaging)
+
 ## Resto Clip
 <img src="https://github.com/yagi-eng/yagi-eng/blob/master/img/restoclip1.jpg?raw=true" width="300px"> <img src="https://github.com/yagi-eng/yagi-eng/blob/master/img/restoclip2.jpg?raw=true" width="300px">
 
