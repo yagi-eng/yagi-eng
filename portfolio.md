@@ -16,7 +16,7 @@
 
 - Overview
   - A bot to buy crypto using dollar cost averaging
-- [Reference](https://zenn.dev/yagi_eng/books/dollar_cost_averaging)
+- [Detail](https://zenn.dev/yagi_eng/books/dollar_cost_averaging)
 - Tech Stack
   - Python/CDK/Lambda/CloudWatchEvents/SecretsManager/bitbank API
 
@@ -57,3 +57,13 @@
  - [Google Play Store(expired)](https://play.google.com/store/apps/details?id=com.yagiyagi21.android.calculator&hl=ja)
 - Tech Stack
   - Java
+
+## Simple App
+### Gohan DAO
+<img src="https://github.com/yagi-eng/yagi-eng/blob/master/img/gohan_dao.png?raw=true" width="200px">
+- Overview
+  - A DAO which has governance token, membership NFT, and governance contract
+- [Web page](https://gohan-dao.onrender.com/)
+- Tech stack
+  - JavaScript/React/thirdweb/Render
+- [Reference](https://twitter.com/heart_rate_art/status/1498810315206660096)
