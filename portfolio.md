@@ -60,7 +60,8 @@
 
 ## Simple App
 ### Gohan DAO
-<img src="https://github.com/yagi-eng/yagi-eng/blob/master/img/gohan_dao.png?raw=true" width="200px">
+<img src="https://github.com/yagi-eng/yagi-eng/blob/master/img/gohan_dao.png?raw=true" width="300px">
+
 - Overview
   - A DAO which has governance token, membership NFT, and governance contract
 - [Web page](https://gohan-dao.onrender.com/)
