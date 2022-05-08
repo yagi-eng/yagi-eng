@@ -67,4 +67,4 @@
 - [Web page](https://gohan-dao.onrender.com/)
 - Tech stack
   - JavaScript/React/thirdweb/Render
-- [Reference](https://twitter.com/heart_rate_art/status/1498810315206660096)
+- [Reference](https://buildspace.so/p/build-dao-with-javascript)
