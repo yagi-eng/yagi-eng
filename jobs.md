@@ -26,7 +26,7 @@
 
 ## ERP development for a certain industry
 - Duration
-  - 09/2020 ~ 3/2022（10/2021 ~ as a side business）
+  - 09/2020 ~ 3/2022
 - Project Description
   - ERP development for a certain industry where IT is not well developed
 - Role
@@ -38,7 +38,7 @@
 
 ## Migration from Excel data management to a database
 - Duration
-  - 07/2020 ~ 08/2020（~ 07/2020 as a side business）
+  - 07/2020 ~ 08/2020
 - Project Description
   - Migration from Excel data management to a database
 - Role
@@ -50,7 +50,7 @@
 
 ## Development and maintenance of e-commerce sites
 - Duration
-  - 02/2019 ~ 07/2020（~ 07/2019 as a side business）
+  - 02/2019 ~ 07/2020
 - Project Description
   - Development and maintenance of e-commerce sites for cars and motorcycles in 115 countries with an annual transaction volume of 3.1 billion yen
 - Role
