@@ -1,4 +1,16 @@
 # Job Details
+## LINE NFT & Sports
+- Duration
+  - 3/2022 ~ now
+- Project Description
+  - Issue a NFT for a soccer team with LINE NFT
+- Contract type
+  - Service contract (請負契約)
+- Role
+  - Web application engineer
+- Development Environment
+  - HTML, CSS, JavaScript, Go, echo, Render, LINE Blockchain
+
 ## investiment & SNS app
 - Duration
   - 10/2021 ~ now
