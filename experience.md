@@ -2,8 +2,8 @@
 ## Technical experience
 |  key  |  value  |
 | ---- | ---- |
-|  Language  |  Solidity(0.5 years+), Go(2y+), Python(1.5y+), Java(2.5y+), PHP(2.5y+), C/C++(1y+), <br>TypeScript(1.5y+), JavaScript(4y+) |
-|  Framework  |  echo(2y+), Spring(2.5y+), CakePHP(1.5y+), Laravel(0.5y+), <br>Web3.js(0.5y+), React.js(1y+), Redux(1y+), Vue.js(0.5y+), Nuxt.js(0.5y+), backbone.js(1.5y+)  |
+|  Language  |  Solidity(0.5 years+), Go(2.5y+), Python(1.5y+), Java(2.5y+), PHP(2.5y+), C/C++(1y+), <br>TypeScript(1.5y+), JavaScript(4y+) |
+|  Framework  |  echo(2.5y+), Spring(2.5y+), CakePHP(1.5y+), Laravel(0.5y+), <br>Web3.js(0.5y+), React.js(1.5y+), Redux(1.5y+), Vue.js(0.5y+), Nuxt.js(0.5y+), backbone.js(1.5y+)  |
 |  DB  |  MySQL  |
 |  OS  |  Linux, VMware, OpenStack  |
 |  Version control system  |  git, subversion  |

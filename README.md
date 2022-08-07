@@ -34,7 +34,7 @@ In addition, I am also involved in the following non-work related activities.
 - Regularly posting on Qiita/Zenn (trending multiple times, highest daily ranking: #1)
   - Qiita/Zenn is like Japanese DEV Community
 
-Recently, I'm really into web3. I have been working on developing dApps in my free time.
+Recently, I'm really into web3. I have been working on developing dApps ([Heart Rate Art](https://yagi-eng.gitbook.io/resume/portfolio#heart-rate-art)) in my free time.
 
 [The detail is here](https://yagi-eng.gitbook.io/resume/)
 
