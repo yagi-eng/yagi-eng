@@ -18,8 +18,8 @@
 ## 技術経験
 |  種別  |  詳細  |
 | ---- | ---- |
-|  言語  |  Solidity(半年), Go(2年), Python(1年半), Java(2年半), PHP(2年半以上), C/C++(1年), <br>TypeScript(1年半), JavaScript(4年) |
-|  フレームワーク  |  echo(2年), Spring(2年半), CakePHP(1年半), Laravel(半年), <br>Web3.js(半年), React.js(1年半), Redux(1年), Vue.js(半年), Nuxt.js(半年未満), backbone.js(1年半)  |
+|  言語  |  Solidity, Go, Python, Java, PHP, C/C++, <br>TypeScript, JavaScript |
+|  フレームワーク  |  echo, Spring, CakePHP, Laravel, <br>Web3.js, React.js, Redux, Vue.js, Nuxt.js, backbone.js  |
 |  DB  |  MySQL  |
 |  OS  |  Linux, VMware, OpenStack  |
 |  バージョン管理  |  git, subversion  |
