@@ -1,7 +1,19 @@
 # Job Details
+## NFT marketplace
+- Duration
+  - 10/2022 ~ now
+- Project Description
+  - NFT marketplace on Japanese blockchain
+- Role
+  - Web application engineer, mainly backend
+- Development Environment
+  - HTML, CSS, Typescript, Vue.js, Go, echo, Solidity, AWS(ECS, RDS, Lambda, CloudWatch), OpenAPI, Terraform
+- The number of team members
+  - 8
+
 ## LINE NFT & Sports
 - Duration
-  - 3/2022 ~ now
+  - 03/2022 ~ 07/2022
 - Project Description
   - Issue a NFT for a soccer team with LINE NFT
 - Contract type
@@ -13,7 +25,7 @@
 
 ## investiment & SNS app
 - Duration
-  - 10/2021 ~ now
+  - 10/2021 ~ 09/2022
 - Project Description
   - investiment & SNS smartphone app development
 - Role
@@ -26,7 +38,7 @@
 
 ## ERP development for a certain industry
 - Duration
-  - 09/2020 ~ 3/2022
+  - 09/2020 ~ 03/2022
 - Project Description
   - ERP development for a certain industry where IT is not well developed
 - Role
