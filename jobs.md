@@ -15,7 +15,7 @@
 - Duration
   - 03/2022 ~ 07/2022
 - Project Description
-  - Issue a NFT for a soccer team with LINE NFT
+  - Issue a NFT for a sport team with LINE NFT
 - Contract type
   - Service contract (請負契約)
 - Role
