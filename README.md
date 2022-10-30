@@ -1,6 +1,6 @@
 ![](https://github.com/yagi-eng/yagi-eng/blob/master/img/そうだ、とりあえずやってみよ_EN.png?raw=true)
 
-## Profile
+## Main
 |  key  |  value  |
 | ---- | ---- |
 |  Name  |  Kohei Yaginuma  |
@@ -9,7 +9,7 @@
 |  note  |  [@yagi_eng](https://note.com/yagi_eng) |
 |  Twitter  |  [@yagi_eng](https://twitter.com/yagi_eng)  |
 
-## Profile Supplements
+## Sub
 |  key  |  value  |
 | ---- | ---- |
 |  Wantedly  |  [@yagi_eng](https://www.wantedly.com/id/yagi_eng)  |
