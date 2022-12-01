@@ -4,6 +4,7 @@
 |  key  |  value  |
 | ---- | ---- |
 |  Name  |  Kohei Yaginuma  |
+|  Github  |  [@yagi-eng](https://github.com/yagi-eng)  |
 |  Qiita  |  [@yagi_eng](https://qiita.com/yagi_eng)<br>Trending multiple times, Highest daily ranking: #1<br>[![My Qiita posts](https://qiita-badge.apiapi.app/s/yagi_eng/posts.svg)](http://qiita.com/yagi_eng) ![My Qiita contributions](https://qiita-badge.apiapi.app/s/yagi_eng/contributions.svg)<br>※Moved to Zenn  |
 |  Zenn  |  [@yagi_eng](https://zenn.dev/yagi_eng/books)  |
 |  note  |  [@yagi_eng](https://note.com/yagi_eng) |
