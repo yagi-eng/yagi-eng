@@ -46,7 +46,7 @@
 - [Web page](https://group-shuffle-gui.onrender.com/)
 - [Repository・Detail](https://github.com/yagi-eng/group_shuffle_gui)
 - Tech Stack
-  - Go/echo/Vue/Heroku
+  - Go/echo/Vue/Render
 
 ## Memo calculator（Android App）
 <img src="https://github.com/yagi-eng/yagi-eng/blob/master/img/memo_dentaku.PNG?raw=true" width="200px">
