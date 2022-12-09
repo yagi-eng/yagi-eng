@@ -24,7 +24,7 @@
 ## Summary
 When I was a college student, I did a two-year internship at a startup company, and developed in-house products. After that, I joined a major Software company and had been engaged in web application development and cloud planning and construction. Less than a year and a half after joining the company, I was selected as the leader of a project worth approximately 0.9 million dollars, and completed the project as planned by coordinating with various departments and handling issues.
 
-I am currently working as a freelance web engineer, doing both front-end and back-end development and management. I sometimes join new development projects and am involved in the selection of technologies such as languages and architectures, as well as the consideration of PJ management policies. In addition, I may be entrusted with coordinating with other departments.
+I am currently working as a freelance web engineer, doing both front-end and back-end development and management. I sometimes join new development projects and am involved in the selection of technologies such as languages and architectures, as well as the consideration of PJ management policies. In addition, I have been entrusted with coordinating with other departments.
 
 I can handle a variety of tasks beyond development, such as optimization for smooth team development.
 
