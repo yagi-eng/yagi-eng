@@ -43,7 +43,7 @@
 
 - Overview
   - A tool to randomly divide groups to avoid duplication when conducting multiple groupings at social events.
-- [Web page](https://group-shuffle-app.herokuapp.com/)
+- [Web page](https://group-shuffle-gui.onrender.com/)
 - [Repository・Detail](https://github.com/yagi-eng/group_shuffle_gui)
 - Tech Stack
   - Go/echo/Vue/Heroku
