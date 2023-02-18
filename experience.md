@@ -2,16 +2,18 @@
 ## Technical experience
 |  key  |  value  |
 | ---- | ---- |
-|  Language  |  Solidity(0.5 years+), Go(2.5y+), Python(1.5y+), Java(2.5y+), PHP(2.5y+), C/C++(1y+), <br>TypeScript(1.5y+), JavaScript(4y+) |
-|  Framework  |  echo(2.5y+), Spring(2.5y+), CakePHP(1.5y+), Laravel(0.5y+), <br>Web3.js(0.5y+), React.js(1.5y+), Redux(1.5y+), Vue.js(0.5y+), Nuxt.js(0.5y+), backbone.js(1.5y+)  |
+|  Language  |  Solidity(0.5 years+), Go(3y+), Python(1.5y+), Java(2.5y+), PHP(2.5y+), C/C++(1y+), C#(<0.5y), <br>TypeScript(2y+), JavaScript(5y+) |
+|  Framework  |  echo(3y+), Spring(2.5y+), CakePHP(1.5y+), Laravel(0.5y+), <br>Web3.js(0.5y+), React.js(1.5y+), Redux(1.5y+), Vue.js(0.5y+), Nuxt.js(0.5y+), Flutter/Dart(<0.5y), backbone.js(1.5y+)  |
 |  DB  |  MySQL  |
 |  OS  |  Linux, VMware, OpenStack  |
 |  Version control system  |  git, subversion  |
-|  CI/CD  |  Jenkins, CircleCI, CodeBuild  |
-|  Cloud |  EC2, CodeCommit, Lambda, RDS, ECS, ECR, Beanstalk, Step Functions, CloudWatch, Secrets Manager, CDK, Cloud Formation, Terraform, Heroku, Vercel, Netlify, Render |
+|  CI/CD  |  GitHub Actions, CodeBuild, CircleCI, Jenkins  |
+|  Cloud(AWS) |  EC2, CodeCommit, Lambda, RDS, ECS, ECR, Beanstalk, Step Functions, CloudWatch, Secrets Manager, CDK, Cloud Formation |
+|  Cloud(Azure) |  Container Apps, Database for MySQL, App Insights, Log Analytics |
+|  Cloud(Other) |  Terraform, Heroku, Vercel, Netlify, Render |
 |  Test  |  go test, Junit, PHPUnit, Cypress  |
 |  Blockchain  |  Ethereum, LINE Blockchain  |
-|  Others  |  OpenAPI(Swagger), Docker, devcontainer, Clean Architecture, MVC  |
+|  Others  |  Unity, OpenAPI(Swagger), Docker, devcontainer, Clean Architecture, DDD, MVC  |
 
 ## Management
 - As a project manager and project leader, managed a team of 6 people
