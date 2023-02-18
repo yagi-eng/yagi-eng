@@ -8,9 +8,9 @@
 |  OS  |  Linux, VMware, OpenStack  |
 |  Version control system  |  git, subversion  |
 |  CI/CD  |  GitHub Actions, CodeBuild, CircleCI, Jenkins  |
-|  Cloud(AWS) |  EC2, CodeCommit, Lambda, RDS, ECS, ECR, Beanstalk, Step Functions, CloudWatch, Secrets Manager, CDK, Cloud Formation |
-|  Cloud(Azure) |  Container Apps, Database for MySQL, App Insights, Log Analytics |
-|  Cloud(Other) |  Terraform, Heroku, Vercel, Netlify, Render |
+|  Cloud (AWS) |  EC2, CodeCommit, Lambda, RDS, ECS, ECR, Beanstalk, Step Functions, CloudWatch, Secrets Manager, CDK, Cloud Formation |
+|  Cloud (Azure) |  Container Apps, Database for MySQL, App Insights, Log Analytics |
+|  Cloud (Other) |  Terraform, Heroku, Vercel, Netlify, Render |
 |  Test  |  go test, Junit, PHPUnit, Cypress  |
 |  Blockchain  |  Ethereum, LINE Blockchain  |
 |  Others  |  Unity, OpenAPI(Swagger), Docker, devcontainer, Clean Architecture, DDD, MVC  |
