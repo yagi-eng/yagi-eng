@@ -35,7 +35,7 @@
 - Development Environment
   - HTML, CSS, JavaScript, Go, echo, Render, LINE Blockchain
 
-## investiment & SNS app
+## Investiment & SNS app
 - Duration
   - 10/2021 ~ 09/2022
 - Project Description
