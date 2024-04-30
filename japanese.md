@@ -15,19 +15,6 @@
 最近は特にWeb3に興味を持っており、上述のように個人でdApp制作に取り組んだりしています。
 
 # 経験・知識
-## 技術経験
-|  種別  |  詳細  |
-| ---- | ---- |
-|  言語  |  Solidity, Go, Python, Java, PHP, C/C++, <br>TypeScript, JavaScript |
-|  フレームワーク  |  echo, Spring, CakePHP, Laravel, <br>Web3.js, React.js, Redux, Vue.js, Nuxt.js, backbone.js  |
-|  DB  |  MySQL  |
-|  OS  |  Linux, VMware, OpenStack  |
-|  バージョン管理  |  git, subversion  |
-|  CI/CD  |  Jenkins, CircleCI, CodeBuild  |
-|  クラウド |  EC2, CodeCommit, Lambda, RDS, ECS, ECR, Beanstalk, Step Functions, CloudWatch, Secrets Manager, CDK, Cloud Formation, Terraform, Heroku, Vercel, Netlify, Render |
-|  テスト  |  go test, Junit, PHPUnit, Cypress  |
-|  その他  |  OpenAPI(Swagger), Docker, devcontainer, storybook, styled-component, Clean Architecture, MVC  |
-
 ## マネジメント
 プロジェクトマネージャー兼プロジェクトリーダーとして6名規模のマネジメント経験
 

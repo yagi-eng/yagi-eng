@@ -1,7 +1,19 @@
 # Job Details
+## Learning English word app
+- Duration
+  - 1/2023 ~ now
+- Project Description
+  - Learning English word app with SNS feature
+- Role
+  - CTO/Tech lead, mainly backend
+- Development Environment
+  - Unity, Go, echo, Azure(Container Apps, Database for MySQL, Functions, Front Door, WAF, App Insights, Log Analytics, Blob), OpenAPI
+- The number of team members
+  - 7
+
 ## NFT marketplace
 - Duration
-  - 10/2022 ~ now
+  - 10/2022 ~ 12/2022
 - Project Description
   - NFT marketplace on Japanese blockchain
 - Role
@@ -27,7 +39,7 @@
 - Duration
   - 10/2021 ~ 09/2022
 - Project Description
-  - investiment & SNS smartphone app development
+  - investiment & SNS mobile app development
 - Role
   - Scrum master
   - Web application engineer, mainly backend
