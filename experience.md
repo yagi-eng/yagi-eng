@@ -9,7 +9,7 @@
 |  Version control system  |  git, subversion  |
 |  CI/CD  |  GitHub Actions, CodeBuild, CircleCI, Jenkins  |
 |  Cloud (AWS) |  EC2, CodeCommit, Lambda, RDS, ECS, ECR, Beanstalk, Step Functions, CloudWatch, Secrets Manager, CDK, Cloud Formation |
-|  Cloud (Azure) |  Container Apps, Database for MySQL, Functions, Front Door, WAF, App Insights, Log Analytics, Blob, Bicep |
+|  Cloud (Azure) |  Container Apps, Database for MySQL, Cosmos DB, Functions, Front Door, WAF, App Insights, Log Analytics, Blob, Bicep |
 |  Cloud (Other) |  Terraform, Heroku, Vercel, Netlify, Render |
 |  Test  |  go test, Junit, PHPUnit, Cypress  |
 |  Blockchain  |  Ethereum, LINE Blockchain  |
