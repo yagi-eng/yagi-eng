@@ -8,34 +8,44 @@
 |  Qiita  |  [@yagi_eng](https://qiita.com/yagi_eng)<br>Trending multiple times, Highest daily ranking: #1<br>[![My Qiita posts](https://qiita-badge.apiapi.app/s/yagi_eng/posts.svg)](http://qiita.com/yagi_eng) ![My Qiita contributions](https://qiita-badge.apiapi.app/s/yagi_eng/contributions.svg)<br>※Moved to Zenn  |
 |  Zenn  |  [@yagi_eng](https://zenn.dev/yagi_eng/books)  |
 |  note  |  [@yagi_eng](https://note.com/yagi_eng) |
-|  Twitter  |  [@yagi_eng](https://twitter.com/yagi_eng)  |
+|  X  |  [@yagi_eng](https://x.com/yagi_eng)  |
 
 ## Sub
 |  key  |  value  |
 | ---- | ---- |
-|  Wantedly  |  [@yagi_eng](https://www.wantedly.com/id/yagi_eng)  |
-|  Speaker Deck  |  [@yagieng](https://speakerdeck.com/yagieng) |
-|  Instagram  |  [@yaginu_travels_around](https://www.instagram.com/yaginu_travels_around/) <br>Post my trip（backpacking at SEA, etc...） <br>[@yaginu_nakame_lunch](https://www.instagram.com/yaginu_nakame_lunch/) <br>Post Ikebukuro area gourmet info  |
-|  Personality test  |  [My suitable job seems to be a manager](https://16test.uranaino.net/udata/cINlVQHf3OkU6jlTtw7j)  |
-|  Favorite languages  |  Solidity, Go  |
-|  Interests  |  Blockchain/Web3/Crypto/DAO, Personal project, Work at a startup  |
-|  Hobbies  |  Travel abroad, Muscle Trainning/Swimming/Kickboxing, Activites, Game  |
+| Wantedly | [@yagi_eng](https://www.wantedly.com/id/yagi_eng) |
+| Speaker Deck | [@yagieng](https://speakerdeck.com/yagieng) |
+| Instagram | [@yaginu_travels_around](https://www.instagram.com/yaginu_travels_around/)<br>Travel posts<br>[@yaginu_nakame_lunch](https://www.instagram.com/yaginu_nakame_lunch/)<br>Gourmet picks around Kamakura area |
+| Personality Test | [Apparently, I'm well-suited for a managerial role](https://16test.uranaino.net/udata/cINlVQHf3OkU6jlTtw7j) |
+| Favorite Languages | Go |
+| Interests | AI, working at startups, building and scaling engineering organizations |
+| Hobbies | Traveling abroad, muscle training, swimming, marine activities, gaming |
+
 
 ## Summary
-When I was a college student, I did a two-year internship at a startup company, and developed in-house products. After that, I joined a major Software company and had been engaged in web application development and cloud planning and construction. Less than a year and a half after joining the company, I was selected as the leader of a project worth approximately 0.9 million dollars, and completed the project as planned by coordinating with various departments and handling issues.
+I began my career in software development through a two-year internship at a startup when I was an university student.
+In 2016, I joined a major systems integrator as a new graduate, where I successfully led a ¥100 million (~$1M USD) project in my second year.
 
-I am currently working as a freelance web engineer, doing both front-end and back-end development and management. I sometimes join new development projects and am involved in the selection of technologies such as languages and architectures, as well as the consideration of PJ management policies. In addition, I have been entrusted with coordinating with other departments.
+In 2019, I transitioned to freelancing. Later in 2023, I co-founded an EdTech startup and served as CTO and tech lead, where I was responsible for building and scaling the engineering team.
+As of 2025, I’m once again working as a freelance technical advisor, supporting multiple clients with their technology and product development.
 
-I can handle a variety of tasks beyond development, such as optimization for smooth team development.
+I have led development across a wide range of domains including web apps, mobile apps, dApps, and cloud infrastructure.
+My core strengths lie in backend development, team management, and early-stage technical leadership.
+I'm particularly experienced in supporting startups and new product initiatives—offering guidance on technology selection, architecture design, and project direction.
 
-In addition, I am also involved in the following non-work related activities.
+Having worked at a large enterprise with over 6,000 employees, I am also comfortable navigating cross-department collaboration and managing large-scale projects with multiple stakeholders.
 
-- Developing a restaurant search LINEBOT (over 300 registered friends)
-- Speaking at events (in front of about 120 people)
-- Regularly posting on Qiita/Zenn (trending multiple times, highest daily ranking: #1)
-  - Qiita/Zenn is like Japanese DEV Community
+In addition to client work, I also pursue personal projects and technical outreach, including:
 
-Recently, I'm really into web3. I have been working on developing dApps ([Heart Rate Art](https://yagi-eng.gitbook.io/resume/portfolio#heart-rate-art)) in my free time.
+- Developed a dApp that generates NFT art based on heart rate data
+- Built a LINE bot for restaurant search (400+ registered users)
+- Gave a solo tech talk in front of ~120 attendees
+- Regularly publish technical articles on Qiita and Zenn (multiple trending posts, ranked #1 daily)
+
+Recently, I've been particularly interested in generative AI, and I’m actively exploring how to apply AI agents to both workflows and product features.
+
+If you're looking for support in software development or technical leadership, feel free to reach out.
+
 
 [The detail is here](https://yagi-eng.gitbook.io/resume/)
 
