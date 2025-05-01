@@ -5,7 +5,7 @@
 - TOEIC 685
 
 ## Academic background
-- 03/2017 Tokyo University of Science Faculty of Science and Technology Department of Information Sciences (東京理科大学　理工学部　情報科学学科) Graduated
+- 03/2017 Tokyo University of Science Faculty of Science and Technology Department of Information Sciences (東京理科大学 理工学部 情報科学学科) Graduated
 - 04/2013 Tokyo University of Science Faculty of Science and Technology Department of Information Sciences Admission
 
 ## Graduation research

@@ -21,7 +21,6 @@
 | Interests | AI, working at startups, building and scaling engineering organizations |
 | Hobbies | Traveling abroad, muscle training, swimming, marine activities, gaming |
 
-
 ## Summary
 I began my career in software development through a two-year internship at a startup when I was an university student.
 In 2016, I joined a major systems integrator as a new graduate, where I successfully led a ¥100 million (~$1M USD) project in my second year.
@@ -39,13 +38,12 @@ In addition to client work, I also pursue personal projects and technical outrea
 
 - Developed a dApp that generates NFT art based on heart rate data
 - Built a LINE bot for restaurant search (400+ registered users)
-- Gave a solo tech talk in front of ~120 attendees
+- Gave a solo tech talk in front of 120+ attendees
 - Regularly publish technical articles on Qiita and Zenn (multiple trending posts, ranked #1 daily)
 
 Recently, I've been particularly interested in generative AI, and I’m actively exploring how to apply AI agents to both workflows and product features.
 
 If you're looking for support in software development or technical leadership, feel free to reach out.
-
 
 [The detail is here](https://yagi-eng.gitbook.io/resume/)
 
