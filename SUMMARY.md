@@ -3,5 +3,5 @@
 * [Portfolio](portfolio.md)
 * [Job details](jobs.md)
 * [Speaking Engagements](speaking_engagements.md)
-* [Other](other.md)
+* [Others](others.md)
 * [日本語版](japanese.md)
