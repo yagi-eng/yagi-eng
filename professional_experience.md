@@ -1,4 +1,4 @@
-# Job Details
+# Professional Experience
 ## Learning English word app
 - Duration
   - 1/2023 ~ now
