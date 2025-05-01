@@ -4,7 +4,7 @@
 
 - Overview
   - A web app which generates a NFT art based on user's heart rate
-- [Web page](https://heart-rate.art)
+- [Web page](https://heart-rate-art.onrender.com/)
 - Demos
   - [Generate an art](https://twitter.com/heart_rate_art/status/1498810315206660096)
   - [Mint a NFT](https://twitter.com/heart_rate_art/status/1499178738856398848)
