@@ -15,15 +15,11 @@
 |  Blockchain  |  Ethereum, LINE Blockchain  |
 |  Others  |  Devin, Github Copilot, OpenAPI(Swagger), Docker, devcontainer, Clean Architecture, DDD, MVC  |
 
-## Management
-- As a project manager and project leader, managed a team of 6 people
-- As a scrum master, introduced Scrum to a team of 8 people
-- Experience of cost planning, purchasing, progress management, task management, risk management, issue handling, coordination with other departments, etc...
+## Highlights
+I often have the opportunity to participate in the launch of new products and the early phases of development, with a strong focus on technology selection, team building, and establishing development structures.
 
-## Time as new recruit
-As a leader of new service development, I stood between each department and completed it. (Related departments; Planning, Construction, Sales, Maintenance, and Project Support)
-In addition, I actively engaged in tasks that I had never experienced before, such as mentoring French internship student and serving as an instructor for in-house training about virtualization technology.
-I was able to receive the best evaluation for the above achievements and attitude.
+As a CTO and Tech Lead in a startup, I have experience building a development organization from scratch and have contributed to improving team productivity through the introduction of Scrum and the establishment of development processes. I frequently receive feedback such as, "We can now visualize the development process," "We can now prioritize and develop the most important features," and "The development flow has been established, allowing for highly productive development."
 
-## Present
-I joined an engineering team that was not functioning as a team, and created a situation where we could function as a team and improve productivity. Specifically, I made rules for team management, organized the backlog, and clarified how to interact with stakeholders.
+Additionally, I am capable of handling all aspects of development, from requirements definition to design, implementation, and operation. I especially focus on designing systems with long-term maintainability in mind, putting emphasis on creating architectures that are easy to maintain. This has contributed to both system scalability and reducing operational costs.
+
+I strive to provide value across product, team, and technology aspects, always aiming to deliver impact in these areas.
