@@ -1,170 +1,97 @@
 # Professional Experience
-## Learning English word app
-- Duration
-  - 1/2023 ~ now
-- Project Description
-  - Learning English word app with SNS feature
-- Role
-  - CTO/Tech lead, mainly backend
-- Development Environment
-  - Unity, Go, echo, Azure(Container Apps, Database for MySQL, Functions, Front Door, WAF, App Insights, Log Analytics, Blob), OpenAPI
-- The number of team members
-  - 7
+## English Vocabulary Learning App Development
+| Key          | Value |
+|--------------|-------|
+| Period       | Jan 2023 – Present (Side project since May 2025) |
+| Description  | An English vocabulary app that emphasizes both “game-like fun” and “effective learning results.” |
+| Role         | - CTO / Tech Lead<br>- New business planning<br>- Full-stack development<br>- Offshore development with Vietnam (English communication)<br>- Hiring<br>- Mentoring |
+| Tech Stack   | Devin, Unity, Go, echo, Azure (Container Apps, MySQL, Functions, Front Door, WAF, App Insights, Log Analytics, Blob), OpenAPI |
+| Team Size    | 1–8 |
+| Achievements | Co-founded an EdTech startup and led all aspects of product planning, design, development, and operations as CTO/Tech Lead. Built a remote team with three offshore Vietnamese engineers and launched the MVP in a short time. Strengthened the internal dev team, delegated responsibilities based on skill levels, and introduced scalable architecture and CI/CD for quality and velocity. |
 
-## NFT marketplace
-- Duration
-  - 10/2022 ~ 12/2022
-- Project Description
-  - NFT marketplace on Japanese blockchain
-- Role
-  - Web application engineer, mainly backend
-- Development Environment
-  - HTML, CSS, Typescript, Vue.js, Go, echo, Solidity, AWS(ECS, RDS, Lambda, CloudWatch), OpenAPI, Terraform
-- The number of team members
-  - 8
+## NFT Marketplace Development
+| Key          | Value |
+|--------------|-------|
+| Period       | Oct 2022 – Dec 2022 |
+| Description  | Developed an NFT marketplace on a major domestic blockchain. |
+| Role         | - Backend Engineer<br>- Led new feature development |
+| Tech Stack   | HTML, CSS, TypeScript, Vue.js, Go, echo, Solidity, AWS (ECS, RDS, Lambda, CloudWatch), OpenAPI, Terraform |
+| Team Size    | 8 |
+| Achievements | Despite the short tenure, led the development of key new features through collaboration with related members. |
 
-## LINE NFT & Sports
-- Duration
-  - 03/2022 ~ 07/2022
-- Project Description
-  - Issue a NFT for a sport team with LINE NFT
-- Contract type
-  - Service contract (請負契約)
-- Role
-  - Web application engineer
-- Development Environment
-  - HTML, CSS, JavaScript, Go, echo, Render, LINE Blockchain
+## LINE NFT / Ethereum dApps Development
+| Key          | Value |
+|--------------|-------|
+| Period       | Mar 2022 – Jul 2022 (Solo freelance) |
+| Description  | Issued NFTs for a sports team using LINE NFT. |
+| Role         | - Web Application Engineer<br>- NFT development on LINE Blockchain and Ethereum |
+| Tech Stack   | HTML, CSS, JavaScript, Go, echo, Render, LINE Blockchain, Solidity |
+| Team Size    | 1 |
+| Achievements | Successfully released a time-limited NFT and built a robust system that handled high access at launch. |
 
-## Investiment & SNS app
-- Duration
-  - 10/2021 ~ 09/2022
-- Project Description
-  - investiment & SNS mobile app development
-- Role
-  - Scrum master
-  - Web application engineer, mainly backend
-- Development Environment
-  - Flutter, Go, echo, Solidity, AWS(ECS, RDS, CloudWatch, Secrets Manager, DynamoDB), OpenAPI, Terraform
-- The number of team members
-  - 8
+## Investment x SNS Mobile App Development
+| Key          | Value |
+|--------------|-------|
+| Period       | Oct 2021 – Sep 2022 |
+| Description  | Developed an SNS app focused on investment (selected for "Top 100 Startups"). |
+| Role         | - Scrum Master<br>- Backend Engineer<br>- Led multiple feature developments |
+| Tech Stack   | Flutter, Go, echo, Solidity, AWS (ECS, ECR, RDS, CloudWatch, Secrets Manager), OpenAPI, Terraform |
+| Achievements | Joined early-stage team, introduced Scrum, launched efficient MVP. Built clean and long-lasting codebase. Internal communication was in English due to multinational team. |
 
-## ERP development for a certain industry
-- Duration
-  - 09/2020 ~ 03/2022
-- Project Description
-  - ERP development for a certain industry where IT is not well developed
-- Role
-  - Web application engineer
-- Development Environment
-  - HTML, CSS, TypeScript, React.js, Go, echo, Python, AWS(EC2, CodeCommit, Lambda, RDS, ECS, ECR, Beanstalk, Step Functions, CDK, Cloud Formation), Swagger
-- The number of team members
-  - 10
+## Industry-specific ERP Development
+| Key          | Value |
+|--------------|-------|
+| Period       | Sep 2020 – Mar 2022 (Side project since Oct 2021) |
+| Description  | ERP development for a traditionally non-IT industry. |
+| Role         | - Backend Lead Engineer<br>- Frontend development & AWS infrastructure<br>- Tech selection<br>- Feature development |
+| Tech Stack   | HTML, CSS, TypeScript, React.js, Go, echo, Python, AWS (EC2, Lambda, RDS, ECS, Step Functions, CDK, etc.), OpenAPI, Clean Architecture |
+| Team Size    | 4–8 |
+| Achievements | Started from scratch, selected tech stack, built architecture, and drove productivity as a Scrum team. |
 
-## Migration from Excel data management to a database
-- Duration
-  - 07/2020 ~ 08/2020
-- Project Description
-  - Migration from Excel data management to a database
-- Role
-  - Web application engineer
-- Development Environment
-  - HTML, CSS, JavaScript, Vue.js, PHP7, Laravel6, PHPUnit, AWS(EC2, CodeCommit), Cypress
-- The number of team members
-  - 7
+## Excel to Database Migration Project
+| Key          | Value |
+|--------------|-------|
+| Period       | Jul 2020 – Aug 2020 (Side project in Jul 2020) |
+| Description  | Migrated data from Excel to a structured database. |
+| Role         | - Web Application Engineer<br>- Developed frontend and backend for migration tools |
+| Tech Stack   | HTML, CSS, JavaScript, Vue.js, PHP7, Laravel6, PHPUnit, AWS (EC2, CodeCommit), Cypress |
+| Team Size    | 7 |
 
-## Development and maintenance of e-commerce sites
-- Duration
-  - 02/2019 ~ 07/2020
-- Project Description
-  - Development and maintenance of e-commerce sites for cars and motorcycles in 115 countries with an annual transaction volume of 3.1 billion yen
-- Role
-  - Web application engineer
-- Development Environment
-  - HTML, CSS, JavaScript, Backbone.js, Vue.js, Java8, Spring3, PHP5, CakePHP2, Jenkins, CircleCI, AWS(EC2)
-- The number of team members
-  - 7
+## E-Commerce Site Development & Maintenance
+| Key          | Value |
+|--------------|-------|
+| Period       | Feb 2019 – Jul 2020 (Side project until Jul 2019) |
+| Description  | Maintained an EC site handling ¥3.1B annually across 115 countries (auto & motorcycle parts). |
+| Role         | - Web Application Engineer<br>- Full-stack development<br>- Bug fixing<br>- New feature implementation<br>- Task and stakeholder management |
+| Tech Stack   | HTML, CSS, JavaScript, Backbone.js, Vue.js, Java8, Spring3, PHP5, CakePHP2, Jenkins, CircleCI, AWS (EC2) |
+| Team Size    | 3–7 |
+| Achievements | Improved productivity and team functionality by streamlining workflows and communication with stakeholders. |
 
-## Cloud construction and server selection
-- Duration
-  - 04/2019 ~ 07/2019
-- Project Description
-  - Private cloud construction and server selection
-- Role
-  - Project manager and project leader
-  - Cost planning, purchasing of goods, progress management, task management, risk management, issue handling, coordination with other departments
-  - Research, evaluation, and selection of new servers to be installed
-- Development Environment
-  - VMware
-- The number of team members
-  - 6
+## Private Cloud Infrastructure Build
+| Key          | Value |
+|--------------|-------|
+| Period       | Nov 2017 – Jul 2019 |
+| Description  | Planned and built a private cloud for a corporate group of 200,000+ employees. |
+| Role         | - Infrastructure Engineer<br>- PM/PL<br>- Cost planning, procurement, progress/task/risk management<br>- System design, server evaluation, Ansible automation<br>- Mentored a French intern<br>- Internal trainer for IT infrastructure |
+| Tech Stack   | VMware, OpenStack, Ubuntu, MaaS, Ansible |
+| Team Size    | 6–12 |
+| Achievements | Led ¥100M-scale service build project. Gained top-tier performance rating in second year. |
 
-## Cloud construction and service planning
-- Duration
-  - 08/2018 ~ 03/2019
-- Project Description
-  - Cloud construction and service planning
-- Role
-  - Project manager and project leader
-  - Cost planning, purchasing of goods, progress management, task management, risk management, issue handling, coordination with other departments
-  - Creation of basic design, detailed design, and test documentation
-  - Review of service outline and service provision flow
-- Development Environment
-  - VMware
-- The number of team members
-  - 6
+## Software Quality Analysis System
+| Key          | Value |
+|--------------|-------|
+| Period       | Jul 2017 – Oct 2017 |
+| Description  | Developed a quality analysis system for software development. |
+| Role         | - Web Application Engineer<br>- Team Leader<br>- Managed progress/tasks<br>- Handled both frontend/backend development and testing |
+| Tech Stack   | HTML, CSS, JavaScript, Backbone.js, Java, JUnit, Jtest, Macchinetta |
+| Team Size    | 25 |
+| Achievements | Successfully led the project. Introduced chat tools to improve communication. |
 
-## Cloud construction
-- Duration
-  - 04/2018 ~ 07/2018
-- Project Description
-  - Private cloud construction
-- Role
-  - Infrastructure engineer
-  - Purchasing of goods, creating detailed design documents, and construction
-  - Verification of vRealize Orchestrator, an automated virtual environment creation tool
-  - Mentorship of French Internship Students
-  - Lecturer for in-house training on IT infrastructure and virtualization
-- Development Environment
-  - VMware
-- The number of team members
-  - 7
-
-## Cloud construction
-- Duration
-  - 11/2017 ~ 03/2018
-- Project Description
-  - Private cloud construction
-- Role
-  - Infrastructure engineer
-  - Performed OS installation, NW configuration, and OpenStack installation using ansible and scripts
-- Development Environment
-  - Openstack, Ubuntu, MaaS, ansible
-- The number of team members
-  - 12
-
-## Development of a quality analysis system for system development
-- Duration
-  - 07/2017 ~ 10/2017
-- Project Description
-  - Development of a quality analysis system for system development
-- Role
-  - Web application engineer
-  - Team leader
-  - Progress management and task management
-  - Creation of detailed design documents, coding, unit testing, and integration testing for both front-end and back-end
-- Development Environment
-  - HTML, CSS, JavaScript, backbone.js, Java, Junit, Jtest, Macchinetta,
-- The number of team members
-  - 25
-
-## In-house tool development
-- Duration
-  - 02/2015 ~ 03/2017（when I was a 3rd and 4th year student at university）
-- Project Description
-  - In-house tool development
-- Role
-  - Software engineer
-- Development Environment
-  - HTML, CSS, JavaScript, PHP, Laravel, VBA
-- The number of team members
-  - 3
+## Internal Tool Development
+| Key          | Value |
+|--------------|-------|
+| Period       | Feb 2015 – Mar 2017 (During university) |
+| Description  | Interned as an internal system engineer and developed internal tools. |
+| Role         | - Long-term intern<br>- Developed internal web tools (leave ledger, time sheet)<br>- Introduced JIRA |
+| Tech Stack   | HTML, CSS, JavaScript, PHP, Laravel, VBA |
+| Team Size    | 3 |
