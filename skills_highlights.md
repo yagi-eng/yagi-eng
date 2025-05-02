@@ -23,3 +23,8 @@ As a CTO and Tech Lead in a startup, I have experience building a development or
 Additionally, I am capable of handling all aspects of development, from requirements definition to design, implementation, and operation. I especially focus on designing systems with long-term maintainability in mind, putting emphasis on creating architectures that are easy to maintain. This has contributed to both system scalability and reducing operational costs.
 
 I strive to provide value across product, team, and technology aspects, always aiming to deliver impact in these areas.
+
+## Policy
+I always strive to deliver genuine value by deeply understanding the background and purpose of a problem and selecting and executing the most appropriate solutions.
+Drawing on experience across product launch and growth, team building, and establishing development processes and technical foundations, I focus not only on short-term problem-solving but also on sustainable growth and scalable system design and operation.
+I also make a point of being hands-on when needed, while creating an environment where teams and individuals can perform at their best.

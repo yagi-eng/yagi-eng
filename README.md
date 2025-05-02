@@ -23,9 +23,9 @@
 
 ## Summary
 I began my career in software development through a two-year internship at a startup when I was an university student.
-In 2017, I joined a major systems integrator as a new graduate, where I successfully led a ¥100 million (~$1M USD) project in my second year.
+In 2017, I joined a major systems integrator as a new graduate, where I successfully led a ¥100 million (~$1M USD) project as a project manager in my second year.
 
-In 2019, I transitioned to freelancing. Later in 2023, I co-founded an EdTech startup and served as CTO and tech lead, where I was responsible for building and scaling the engineering team.
+In 2019, I transitioned to freelancing. Later in 2023, I co-founded an EdTech startup and served as CTO and tech lead, where I was responsible for building and scaling the product and the engineering team.
 As of 2025, I’m once again working as a freelance technical advisor, supporting multiple clients with their technology and product development.
 
 I have led development across a wide range of domains including web apps, mobile apps, dApps, and cloud infrastructure.
