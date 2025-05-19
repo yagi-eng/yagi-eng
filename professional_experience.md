@@ -5,7 +5,7 @@
 | Period       | Jan 2023 – Present (Side project since May 2025) |
 | Description  | An English vocabulary app that emphasizes both “game-like fun” and “effective learning results.” |
 | Role         | - CTO / Tech Lead<br>- New business planning<br>- Full-stack development<br>- Offshore development with Vietnam (English communication)<br>- Hiring<br>- Mentoring |
-| Tech Stack   | Devin, Unity, Go, echo, Azure (Container Apps, MySQL, Functions, Front Door, WAF, App Insights, Log Analytics, Blob), OpenAPI |
+| Tech Stack   | Devin, Go, echo, Unity, C#, Azure (Container Apps, MySQL, Functions, Front Door, WAF, App Insights, Log Analytics, Blob), Cloudflare(Load Balancing, WAF) OpenAPI |
 | Team Size    | 1–8 |
 | Achievements | Co-founded an EdTech startup and led all aspects of product planning, design, development, and operations as CTO/Tech Lead. Built a remote team with three offshore Vietnamese engineers and launched the MVP in a short time. Strengthened the internal dev team, delegated responsibilities based on skill levels, and introduced scalable architecture and CI/CD for quality and velocity. |
 

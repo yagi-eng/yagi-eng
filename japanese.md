@@ -39,7 +39,7 @@ Webアプリ、モバイルアプリ、dApps、クラウドインフラなど幅
 | 期間            | 2023年1月〜現在（2025年5月〜は副業として参画） |
 | プロジェクト内容  | 「ゲームとしての楽しさ」と「確かな学習効果」の両立を徹底追求した英単語アプリ |
 | 担当            | - CTO/テックリード<br>- 新規事業の企画<br>- 開発全般<br>- ベトナムオフショア開発の活用（英語でのコミュニケーション）<br>- 採用<br>- 教育 |
-| 環境            | Devin, Unity, Go, echo, Azure(Container Apps, Database for MySQL, Functions, Front Door, WAF, App Insights, Log Analytics, Blob), OpenAPI |
+| 環境            | Devin, Go, echo, Unity, C#, Azure (Container Apps, MySQL, Functions, Front Door, WAF, App Insights, Log Analytics, Blob), Cloudflare(Load Balancing, WAF) OpenAPI |
 | 要員数          | 1~8名 |
 | 成果            | EdTechスタートアップを共同創業し、CTO/テックリードとしてプロダクトの企画・設計・開発・運用全般を主導しました。立ち上げ当初は日本人フルタイムの開発メンバーが自分1人という状況で、コスト面を考慮してベトナムのオフショアメンバー3名とのリモート開発体制を構築し、英語でコミュニケーションを行いながら、短期間でアプリのMVPをローンチしました。その後は採用活動や育成にも注力し、日本人メンバーの開発体制を確立しました。メンバーのスキルレベルに応じて段階的に権限委譲を行い、自分がボトルネックとならない体制を確立しました。また、スクラムに縛られすぎない開発体制や技術基盤の整備、CI/CDの導入、保守性・拡張性の高いアーキテクチャ設計などを通じて、開発速度と品質の両立を実現し、プロダクトを継続的にスケールさせました。 |
 
