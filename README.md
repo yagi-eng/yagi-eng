@@ -16,10 +16,10 @@
 | Wantedly | [@yagi_eng](https://www.wantedly.com/id/yagi_eng) |
 | Speaker Deck | [@yagieng](https://speakerdeck.com/yagieng) |
 | Instagram | [@yaginu_travels_around](https://www.instagram.com/yaginu_travels_around/)<br>Travel posts<br>[@yaginu_nakame_lunch](https://www.instagram.com/yaginu_nakame_lunch/)<br>Gourmet picks around Kamakura area |
-| Personality Test | [Apparently, I'm well-suited for a managerial role](https://16test.uranaino.net/udata/cINlVQHf3OkU6jlTtw7j) |
+| MBTI | [INTJ](https://www.16personalities.com/ja/intj%E5%9E%8B%E3%81%AE%E6%80%A7%E6%A0%BC), but [changes frequently](https://x.com/yagi_eng/status/1948613914440106052).. |
 | Favorite Languages | Go |
 | Interests | AI, working at startups, building and scaling engineering organizations |
-| Hobbies | Traveling abroad, muscle training, swimming, marine activities, gaming |
+| Hobbies | Traveling abroad, muscle training, surfin, swimming, marine activities, gaming |
 
 ## Summary
 I began my career in software development through a two-year internship at a startup when I was an university student.
